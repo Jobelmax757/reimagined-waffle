@@ -1,0 +1,34 @@
+[03:33:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:33:35] [ServerMain/INFO]: Loaded 7 recipes
+[03:33:35] [ServerMain/INFO]: Loaded 1271 advancements
+[03:33:36] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[03:33:36] [Server thread/INFO]: Loading properties
+[03:33:36] [Server thread/INFO]: Default game type: SURVIVAL
+[03:33:36] [Server thread/INFO]: Generating keypair
+[03:33:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:33:36] [Server thread/INFO]: Using epoll channel type
+[03:33:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:33:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:33:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:33:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:33:36] [Server thread/INFO]: Preparing level "world"
+[03:33:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:33:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:33:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:33:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:33:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:33:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:33:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:33:41] [Worker-Main-1/INFO]: Preparing spawn area: 43%
+[03:33:41] [Server thread/INFO]: Time elapsed: 3395 ms
+[03:33:41] [Server thread/INFO]: Done (5.689s)! For help, type "help"
+[03:33:51] [Server thread/INFO]: Jobelmax757[/127.46.249.115:35339] logged in with entity id 190 at (-7.5, 75.0, 26.5)
+[03:33:51] [Server thread/INFO]: Jobelmax757 joined the game
+[03:37:25] [Server thread/INFO]: Sammy757[/127.46.249.115:45229] logged in with entity id 1035 at (1.5, 74.0, 35.5)
+[03:37:25] [Server thread/INFO]: Sammy757 joined the game
+[03:38:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:38:31] [Server thread/INFO]: 	op jobelmax757<--[HERE]
+[03:38:37] [Server thread/INFO]: Made Jobelmax757 a server operator
+[03:38:44] [Server thread/INFO]: [Jobelmax757: Set the time to 1000]
+[03:40:21] [Server thread/INFO]: Sammy757 lost connection: Disconnected
+[03:40:21] [Server thread/INFO]: Sammy757 left the game
