@@ -1050,6 +1050,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-11-29 04:59:16 +0000",
+      "baked_potato": "2024-11-29 05:25:53 +0000",
       "cooked_salmon": "2024-11-29 04:47:29 +0000",
       "carrot": "2024-11-29 03:59:56 +0000"
     },
