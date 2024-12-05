@@ -487,6 +487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-05 02:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-05 02:05:54 +0000"
@@ -636,6 +642,7 @@
       "minecraft:skeleton": "2024-12-05 02:13:33 +0000",
       "minecraft:spider": "2024-12-05 01:58:26 +0000",
       "minecraft:zombie": "2024-12-05 02:14:47 +0000",
+      "minecraft:creeper": "2024-12-05 02:32:41 +0000",
       "minecraft:drowned": "2024-12-05 02:03:47 +0000"
     },
     "done": false
@@ -643,6 +650,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2024-12-05 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-05 02:33:26 +0000"
     },
     "done": true
   },
@@ -712,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 02:34:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-05 02:05:54 +0000"
@@ -721,6 +740,18 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2024-12-05 02:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-05 02:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 02:33:26 +0000"
     },
     "done": true
   },
