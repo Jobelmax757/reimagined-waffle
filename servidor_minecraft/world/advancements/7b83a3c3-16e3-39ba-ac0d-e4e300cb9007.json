@@ -7,15 +7,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2024-12-05 02:07:06 +0000",
       "minecraft:beach": "2024-12-05 01:32:24 +0000",
       "minecraft:forest": "2024-12-05 02:17:52 +0000",
+      "minecraft:river": "2024-12-05 02:05:31 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-05 23:16:38 +0000",
+      "minecraft:dripstone_caves": "2024-12-05 03:00:45 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-05 02:07:06 +0000",
       "minecraft:ocean": "2024-12-05 01:32:31 +0000",
       "minecraft:cherry_grove": "2024-12-05 02:25:56 +0000",
-      "minecraft:river": "2024-12-05 02:05:31 +0000",
       "minecraft:birch_forest": "2024-12-05 01:33:00 +0000",
-      "minecraft:dripstone_caves": "2024-12-05 03:00:45 +0000",
-      "minecraft:plains": "2024-12-05 02:24:16 +0000"
+      "minecraft:bamboo_jungle": "2024-12-05 23:18:06 +0000",
+      "minecraft:plains": "2024-12-05 02:24:16 +0000",
+      "minecraft:warm_ocean": "2024-12-05 23:07:20 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-05 23:15:01 +0000"
     },
     "done": false
   },
@@ -1610,6 +1614,84 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-05 22:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-05 23:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-05 23:11:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-05 23:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-05 23:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-05 23:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-05 23:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-05 23:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-05 23:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-05 23:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-05 23:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-05 23:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-05 23:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-05 23:18:18 +0000"
     },
     "done": true
   },
