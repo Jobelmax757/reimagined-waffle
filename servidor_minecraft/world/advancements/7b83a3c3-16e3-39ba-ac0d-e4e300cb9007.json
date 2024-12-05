@@ -493,6 +493,7 @@
       "minecraft:pillager": "2024-12-05 18:29:51 +0000",
       "minecraft:skeleton": "2024-12-05 02:13:33 +0000",
       "minecraft:enderman": "2024-12-05 03:09:19 +0000",
+      "minecraft:witch": "2024-12-05 18:51:09 +0000",
       "minecraft:spider": "2024-12-05 01:58:26 +0000",
       "minecraft:zombie": "2024-12-05 02:14:47 +0000",
       "minecraft:creeper": "2024-12-05 02:32:41 +0000",
@@ -899,6 +900,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-05 02:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-05 18:58:04 +0000"
     },
     "done": true
   },
