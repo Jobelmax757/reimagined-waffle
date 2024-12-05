@@ -226,3 +226,4 @@
 [20:24:43] [Server thread/INFO]: Jobelmax757 lost connection: Timed out
 [20:24:43] [Server thread/INFO]: Jobelmax757 left the game
 [20:29:36] [Server thread/INFO]: vodka61 has made the advancement [Acquire Hardware]
+[21:20:18] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1226, y=113, z=-1255} hx{x=1226, y=114, z=-1255}
