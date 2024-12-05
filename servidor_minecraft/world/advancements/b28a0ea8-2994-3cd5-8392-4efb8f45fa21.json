@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-05 02:25:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-05 02:11:52 +0000"
@@ -44,6 +50,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2024-12-05 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-05 02:24:26 +0000"
     },
     "done": true
   },
@@ -143,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-05 02:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-05 01:59:46 +0000"
@@ -203,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-05 02:24:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-05 02:11:52 +0000"
@@ -212,6 +236,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-05 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-05 02:17:41 +0000"
     },
     "done": true
   },
@@ -251,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-05 02:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-05 01:59:46 +0000"
@@ -281,8 +317,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-05 02:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-05 02:17:45 +0000",
+      "minecraft:spider": "2024-12-05 02:17:40 +0000",
       "minecraft:zombie": "2024-12-05 02:15:29 +0000"
     },
     "done": false
@@ -311,9 +355,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-05 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-05 02:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-05 02:17:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-05 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-12-05 02:17:41 +0000"
     },
     "done": true
   },
@@ -341,8 +409,10 @@
       "minecraft:beach": "2024-12-05 01:42:22 +0000",
       "minecraft:forest": "2024-12-05 02:16:15 +0000",
       "minecraft:ocean": "2024-12-05 02:03:29 +0000",
+      "minecraft:cherry_grove": "2024-12-05 02:26:00 +0000",
       "minecraft:river": "2024-12-05 02:05:34 +0000",
-      "minecraft:birch_forest": "2024-12-05 01:58:20 +0000"
+      "minecraft:birch_forest": "2024-12-05 01:58:20 +0000",
+      "minecraft:plains": "2024-12-05 02:24:18 +0000"
     },
     "done": false
   },
@@ -385,6 +455,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-05 01:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-05 02:17:41 +0000"
     },
     "done": true
   },
@@ -451,6 +527,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-05 01:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-05 02:17:41 +0000"
     },
     "done": true
   },
