@@ -1,413 +1,79 @@
-[01:39:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:39:47] [ServerMain/INFO]: Loaded 7 recipes
-[01:39:47] [ServerMain/INFO]: Loaded 1271 advancements
-[01:39:47] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[01:39:47] [Server thread/INFO]: Loading properties
-[01:39:47] [Server thread/INFO]: Default game type: SURVIVAL
-[01:39:47] [Server thread/INFO]: Generating keypair
-[01:39:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:39:47] [Server thread/INFO]: Using epoll channel type
-[01:39:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:39:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:39:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:39:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:39:48] [Server thread/INFO]: Preparing level "world"
-[01:39:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:39:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:39:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:39:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:39:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:39:53] [Worker-Main-3/INFO]: Preparing spawn area: 7%
-[01:39:54] [Server thread/INFO]: Time elapsed: 3964 ms
-[01:39:54] [Server thread/INFO]: Done (6.337s)! For help, type "help"
-[01:40:13] [Server thread/INFO]: Jobelmax757[/[0:0:0:0:0:0:0:1%0]:42584] logged in with entity id 161 at (-214.65346853203062, 37.0, -293.8350274360735)
-[01:40:13] [Server thread/INFO]: Jobelmax757 joined the game
-[01:40:48] [Server thread/INFO]: TOBHAX[/[0:0:0:0:0:0:0:1%0]:53050] logged in with entity id 549 at (-129.34610356857834, -6.0, -257.1518805727885)
-[01:40:48] [Server thread/INFO]: TOBHAX joined the game
-[01:41:48] [Server thread/INFO]: [Jobelmax757: Set own game mode to Spectator Mode]
-[01:41:54] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to TOBHAX]
-[01:42:05] [Server thread/INFO]: [Jobelmax757: Summoned new Bat]
-[01:42:39] [Server thread/INFO]: Sammy757z[/[0:0:0:0:0:0:0:1%0]:48172] logged in with entity id 896 at (-159.78846234605328, 33.0, -288.4144024155458)
-[01:42:39] [Server thread/INFO]: Sammy757z joined the game
-[01:43:00] [Server thread/INFO]: [Not Secure] <Sammy757z> Estoy hina chabal
-[01:43:03] [Server thread/INFO]: [Not Secure] <TOBHAX> ola
-[01:43:11] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[01:43:15] [Server thread/INFO]: [Jobelmax757: Set own game mode to Spectator Mode]
-[01:43:20] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to TOBHAX]
-[01:43:47] [Server thread/INFO]: [Jobelmax757: Played sound minecraft:ambient.cave to 3 players]
-[01:44:01] [Server thread/INFO]: [Jobelmax757: Played sound minecraft:ambient.cave to 3 players]
-[01:44:37] [Server thread/INFO]: [Jobelmax757: Played sound minecraft:ambient.cave to 3 players]
-[01:45:30] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to TOBHAX]
-[01:45:38] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[01:45:49] [Server thread/INFO]: [Not Secure] <Sammy757z> mbaepiko está lleno de pollos acá
-[01:46:29] [Server thread/INFO]: [Not Secure] <Jobelmax757> nico
-[01:46:32] [Server thread/INFO]: [Not Secure] <TOBHAX> ke
-[01:47:08] [Server thread/INFO]: [Not Secure] <Jobelmax757> diamantuki
-[01:47:22] [Server thread/INFO]: [Not Secure] <Jobelmax757> mmmm mbaepiko era 1 nms
-[01:47:22] [Server thread/INFO]: TOBHAX has made the advancement [Diamonds!]
-[01:47:35] [Server thread/INFO]: [Not Secure] <TOBHAX> mis palos
-[01:48:14] [Server thread/INFO]: TOBHAX has made the advancement [Suit Up]
-[01:48:34] [Server thread/INFO]: [Not Secure] <Jobelmax757> nico nico
-[01:48:35] [Server thread/INFO]: [Not Secure] <Jobelmax757> mira
-[01:49:05] [Server thread/INFO]: [Not Secure] <Sammy757z> 80 pollos hay acá
-[01:49:07] [Server thread/INFO]: [Not Secure] <Jobelmax757> granja de araña
-[01:49:11] [Server thread/INFO]: Jobelmax757 has made the advancement [Diamonds!]
-[01:49:12] [Server thread/INFO]: [Not Secure] <TOBHAX> ufff
-[01:50:09] [Server thread/INFO]: Jobelmax757 has made the advancement [Not Today, Thank You]
-[01:50:34] [Server thread/INFO]: TavyronTujax[/[0:0:0:0:0:0:0:1%0]:42804] logged in with entity id 2681 at (-157.70713377805865, 32.0, -288.3847936592186)
-[01:50:34] [Server thread/INFO]: TavyronTujax joined the game
-[01:51:44] [Server thread/INFO]: [Jobelmax757: Set own game mode to Adventure Mode]
-[01:51:45] [Server thread/INFO]: [Jobelmax757: Set own game mode to Spectator Mode]
-[01:52:08] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[01:52:19] [Server thread/INFO]: [Not Secure] <Jobelmax757> chaval aca
-[01:52:25] [Server thread/INFO]: [Not Secure] <TOBHAX> chill
-[01:53:04] [Server thread/INFO]: [Not Secure] <Sammy757z> zzzzzzzzz
-[01:53:36] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to TavyronTujax]
-[01:56:17] [Server thread/INFO]: [Jobelmax757: Set own game mode to Spectator Mode]
-[01:56:21] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to TOBHAX]
-[01:56:35] [Server thread/INFO]: [Jobelmax757: Played sound minecraft:ambient.cave to 4 players]
-[01:57:00] [Server thread/INFO]: [Jobelmax757: Played sound minecraft:ambient.cave to 4 players]
-[01:57:55] [Server thread/INFO]: [Jobelmax757: Played sound minecraft:entity.creeper.primed to TOBHAX]
-[01:58:19] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to TavyronTujax]
-[01:58:24] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[01:59:53] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[01:59:54] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[01:59:55] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[01:59:55] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[01:59:56] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[01:59:56] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[01:59:57] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[01:59:57] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[01:59:58] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[01:59:58] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[01:59:58] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[01:59:59] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[01:59:59] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:00] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:00] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:00] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:01] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:01] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:02] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:02] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:02] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:03] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:03] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:04] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:04] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:05] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:05] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:06] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:06] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:07] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:07] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:07] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:08] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:08] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:09] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:09] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:10] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:10] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:11] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:11] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:12] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:13] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:13] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:14] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:14] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:15] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:16] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:17] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:17] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:18] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:18] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:19] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:19] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:20] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:21] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:21] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:21] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:22] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:22] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:23] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:23] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:24] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:24] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:28] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:29] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:29] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:30] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:30] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:30] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:31] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:32] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:32] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:33] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:33] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:34] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:35] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:35] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:36] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:37] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:37] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:38] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:38] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:39] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:39] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:40] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:40] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:41] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:00:42] [Server thread/INFO]: [Jobelmax757: Summoned new Chicken]
-[02:01:15] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[02:01:34] [Server thread/INFO]: Sammy757z has made the advancement [A Seedy Place]
-[02:02:37] [Server thread/INFO]: [Jobelmax757: Set own game mode to Spectator Mode]
-[02:02:39] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[02:02:44] [Server thread/INFO]: [Not Secure] <Sammy757z> ajajajjajajajaja hay un millón de pollos aca
-[02:02:45] [Server thread/INFO]: [Not Secure] <Jobelmax757> chaval avisa para tp
-[02:02:51] [Server thread/INFO]: [Not Secure] <Sammy757z> se lagea todo ya
-[02:02:51] [Server thread/INFO]: [Not Secure] <TOBHAX> okokok
-[02:03:40] [Server thread/INFO]: [Not Secure] <Sammy757z> de tantos pollos que hay tengo 26 pollos crudos y sigue habiendo mas
-[02:04:29] [Server thread/INFO]: [Jobelmax757: Set own game mode to Spectator Mode]
-[02:04:37] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to TOBHAX]
-[02:04:43] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[02:06:14] [Server thread/INFO]: Sammy757z has made the advancement [The Parrots and the Bats]
-[02:07:03] [Server thread/INFO]: [Not Secure] <Jobelmax757> kore no hay luego diamante
-[02:08:33] [Server thread/INFO]: [Not Secure] <Sammy757z> ayuda con los pollos el búnker está pegado de pollos
-[02:08:42] [Server thread/INFO]: [Not Secure] <Sammy757z> petado
-[02:09:15] [Server thread/INFO]: [Not Secure] <Sammy757z> 64 pollos crudos
-[02:09:34] [Server thread/INFO]: [Not Secure] <Sammy757z> acá tenemos comida hasta la muerte
-[02:09:42] [Server thread/INFO]: [Not Secure] <Jobelmax757> boeboeboe
-[02:10:08] [Server thread/INFO]: [Not Secure] <Sammy757z> haceme tp a pocan
-[02:10:15] [Server thread/INFO]: [Not Secure] <Sammy757z> no puedo salir
-[02:10:16] [Server thread/INFO]: [Jobelmax757: Teleported Sammy757z to TavyronTujax]
-[02:10:48] [Server thread/INFO]: [Not Secure] <Jobelmax757> no hay un caralio de diamantes nico
-[02:10:49] [Server thread/INFO]: [Not Secure] <Sammy757z> 64 plumas tengo
-[02:10:57] [Server thread/INFO]: [Not Secure] <TOBHAX> no ni mielda tio
-[02:11:55] [Server thread/INFO]: [Not Secure] <TOBHAX> pica con uno en medio
-[02:12:42] [Server thread/INFO]: [Not Secure] <TOBHAX> ojo
-[02:13:01] [Server thread/INFO]: [Not Secure] <TOBHAX> spawn
-[02:13:09] [Server thread/INFO]: [Not Secure] <Sammy757z> acá en el búnker hay un cofre con una tonelada de pollo por si quieren
-[02:13:10] [Server thread/INFO]: TOBHAX was blown up by Creeper
-[02:13:20] [Server thread/INFO]: [Not Secure] <Jobelmax757> OSTIA
-[02:13:33] [Server thread/INFO]: [Jobelmax757: Set own game mode to Spectator Mode]
-[02:13:33] [Server thread/INFO]: [Not Secure] <Sammy757z> le detonaron la puta tanga
-[02:13:37] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[02:13:57] [Server thread/INFO]: [Not Secure] <Jobelmax757> Te hago tp nico?
-[02:14:00] [Server thread/INFO]: [Not Secure] <TOBHAX> sis
-[02:14:14] [Server thread/INFO]: [Jobelmax757: Teleported TOBHAX to Jobelmax757]
-[02:14:15] [Server thread/INFO]: [Not Secure] <Sammy757z> aca
-[02:15:25] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJA
-[02:15:47] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJAJ
-[02:16:03] [Server thread/INFO]: [Jobelmax757: Teleported TavyronTujax to Jobelmax757]
-[02:16:43] [Server thread/INFO]: [Not Secure] <TOBHAX> re fuerte
-[02:16:50] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJA
-[02:17:04] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to Sammy757z]
-[02:17:41] [Server thread/INFO]: [Not Secure] <TOBHAX> mi diamante chaval
-[02:17:49] [Server thread/INFO]: [Not Secure] <TOBHAX> vos agarraste uno mio
-[02:18:05] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to TOBHAX]
-[02:18:18] [Server thread/INFO]: [Not Secure] <Jobelmax757> aca tengo tus diamantes
-[02:18:43] [Server thread/INFO]: [Not Secure] <TOBHAX> donde no vamos?
-[02:18:51] [Server thread/INFO]: [Not Secure] <Jobelmax757> jaha tp en el bunker nms
-[02:18:54] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to Sammy757z]
-[02:19:01] [Server thread/INFO]: [Not Secure] <Sammy757z> hay que exclavisar los aldeanos
-[02:19:05] [Server thread/INFO]: [Not Secure] <TavyronTujax> tienen hierro
-[02:19:07] [Server thread/INFO]: [Not Secure] <Jobelmax757> o seguimos farmeando?
-[02:19:08] [Server thread/INFO]: [Not Secure] <TOBHAX> sis
-[02:19:14] [Server thread/INFO]: [Not Secure] <TavyronTujax> para traer aldeanos y esclavizar ya
-[02:19:15] [Server thread/INFO]: [Not Secure] <TOBHAX> tego
-[02:19:30] [Server thread/INFO]: [Not Secure] <Jobelmax757> Les traigo al bunker entonces?
-[02:19:33] [Server thread/INFO]: [Not Secure] <Sammy757z> exclavisamo aldeano
-[02:19:49] [Server thread/INFO]: [Not Secure] <TOBHAX> sapawn
-[02:19:59] [Server thread/INFO]: [Not Secure] <TOBHAX> de esqeleto
-[02:20:00] [Server thread/INFO]: [Not Secure] <Jobelmax757> guarda cordenadas nico
-[02:20:33] [Server thread/INFO]: [Not Secure] <Jobelmax757> sammy vo quedate en el bunker nms
-[02:20:41] [Server thread/INFO]: [Not Secure] <Sammy757z> boee
-[02:20:43] [Server thread/INFO]: [Not Secure] <TOBHAX> ya tengo coord
-[02:20:52] [Server thread/INFO]: TavyronTujax lost connection: Timed out
-[02:20:52] [Server thread/INFO]: TavyronTujax left the game
-[02:20:52] [Server thread/WARN]: handleDisconnection() called twice
-[02:20:53] [Server thread/INFO]: [Not Secure] <Jobelmax757> tp aca al bunker a todos los chavales?
-[02:21:01] [Server thread/INFO]: TavyronTujax[/[0:0:0:0:0:0:0:1%0]:48690] logged in with entity id 11886 at (-61.49888115071676, -56.0, -262.9567618838553)
-[02:21:01] [Server thread/INFO]: TavyronTujax joined the game
-[02:21:05] [Server thread/INFO]: [Not Secure] <TOBHAX> oikokok
-[02:21:12] [Server thread/INFO]: [Jobelmax757: Teleported 4 entities to Jobelmax757]
-[02:21:25] [Server thread/INFO]: [Not Secure] <Sammy757z> estaba trayendo pollos
-[02:21:26] [Server thread/INFO]: [Not Secure] <TOBHAX> para' que el poozo?
-[02:21:37] [Server thread/INFO]: TavyronTujax lost connection: You logged in from another location
-[02:21:37] [Server thread/INFO]: TavyronTujax left the game
-[02:21:37] [Server thread/INFO]: TavyronTujax[/[0:0:0:0:0:0:0:1%0]:42922] logged in with entity id 12021 at (-170.0608939072085, 31.0, -276.16994736230566)
-[02:21:37] [Server thread/INFO]: TavyronTujax joined the game
-[02:21:46] [Server thread/INFO]: [Not Secure] <TavyronTujax> mira chaval
-[02:22:13] [Server thread/INFO]: [Not Secure] <TavyronTujax> chaval
-[02:22:26] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJJA
-[02:22:40] [Server thread/INFO]: [Not Secure] <TavyronTujax> mira mi maquina chaval
-[02:23:01] [Server thread/INFO]: [Not Secure] <Jobelmax757> sammy quedate en una esquina con los pollossss
-[02:23:07] [Server thread/INFO]: [Not Secure] <TavyronTujax> que onda ese mbopi me sigue
-[02:23:16] [Server thread/INFO]: [Not Secure] <Sammy757z> mata todo nomás
-[02:23:21] [Server thread/INFO]: [Not Secure] <TOBHAX> para que es?
-[02:23:31] [Server thread/INFO]: [Not Secure] <TavyronTujax> para tradear con los aldeanos pesqueros
-[02:23:35] [Server thread/INFO]: [Not Secure] <TavyronTujax> esmeraldas
-[02:23:37] [Server thread/INFO]: [Not Secure] <TOBHAX> uuu
-[02:23:45] [Server thread/INFO]: [Not Secure] <Sammy757z> el hilo para trapear con los aldeanos
-[02:24:03] [Server thread/INFO]: [Not Secure] <Jobelmax757> Esa granja esta bugeada
-[02:24:07] [Server thread/INFO]: [Not Secure] <Jobelmax757> en estsa versiones
-[02:24:12] [Server thread/INFO]: [Not Secure] <Jobelmax757> bug de telaraña infinita
-[02:24:17] [Server thread/INFO]: [Not Secure] <Sammy757z> ahora hay que exclavisa los aldeanos
-[02:24:23] [Server thread/INFO]: [Not Secure] <TavyronTujax> y la lana sirve para combustible tambien
-[02:24:32] [Server thread/INFO]: [Not Secure] <TOBHAX> voy a traer algo para comer
-[02:24:44] [Server thread/INFO]: [Not Secure] <TavyronTujax> dale chaval
-[02:25:50] [Server thread/INFO]: [Not Secure] <TavyronTujax> sali
-[02:27:05] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[02:27:26] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[02:28:06] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[02:28:27] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[02:30:12] [Server thread/INFO]: [Not Secure] <TOBHAX> se nota
-[02:32:13] [Server thread/INFO]: [Not Secure] <Sammy757z> van a spawnear mob mbaepiko
-[02:32:23] [Server thread/INFO]: [Not Secure] <Sammy757z> vamos a detonar
-[02:32:24] [Server thread/INFO]: [Not Secure] <TOBHAX> luuuuuuzzzz
-[02:33:02] [Server thread/INFO]: [Not Secure] <Sammy757z> duerman pues
-[02:33:08] [Server thread/INFO]: [Not Secure] <TOBHAX> ke pesao
-[02:33:16] [Server thread/INFO]: [Not Secure] <TOBHAX> porke loke qhers dormir suemroe
-[02:34:04] [Server thread/INFO]: [Not Secure] <TavyronTujax> pasa el cd sammy
-[02:34:05] [Server thread/INFO]: [Not Secure] <Jobelmax757> Nico hay que terminar de decorar la habitación de los chavales
-[02:34:26] [Server thread/INFO]: [Not Secure] <Sammy757z> todo de terror
-[02:34:48] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJA
-[02:34:59] [Server thread/INFO]: [Jobelmax757: Gave 1 [Music Disc] to TavyronTujax]
-[02:35:09] [Server thread/INFO]: [Not Secure] <Sammy757z> tranqui nomás
-[02:36:40] [Server thread/INFO]: [Not Secure] <TavyronTujax> hay que traer aldeanetes pero falta hierrol
-[02:36:47] [Server thread/INFO]: [Not Secure] <TavyronTujax> y la zona tambien de los aldellinos
-[02:36:54] [Server thread/INFO]: [Not Secure] <TOBHAX> yo yrngo iero
-[02:36:57] [Server thread/INFO]: [Not Secure] <TavyronTujax> zona chavalistica para aldeanos chavalisticos
-[02:37:01] [Server thread/INFO]: [Not Secure] <Jobelmax757> Hacemo granja de hierro pio?
-[02:37:03] [Server thread/INFO]: [Not Secure] <Jobelmax757> bajo tierra
-[02:37:04] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJAJA
-[02:37:15] [Server thread/INFO]: [Not Secure] <TOBHAX> y poreke no?
-[02:37:22] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJAJ
-[02:37:33] [Server thread/INFO]: [Jobelmax757: Gave 1 [Music Disc] to Jobelmax757]
-[02:37:48] [Server thread/INFO]: [Not Secure] <TavyronTujax> toma batata chaval
-[02:38:13] [Server thread/INFO]: [Not Secure] <TavyronTujax> y esta pieza??
-[02:38:49] [Server thread/INFO]: [Not Secure] <Sammy757z> quien me pateo?
-[02:38:52] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJA
-[02:39:15] [Server thread/INFO]: [Not Secure] <TavyronTujax> se puede poner alfombra de luque
-[02:39:23] [Server thread/INFO]: [Not Secure] <TOBHAX> NON
-[02:39:28] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJAJAJ BUNKER LUQUEÑO NMS YA
-[02:39:41] [Server thread/INFO]: [Not Secure] <Sammy757z> pone de cerro
-[02:40:30] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[02:41:06] [Server thread/INFO]: [Not Secure] <Sammy757z> chabal sali pue de la cueva todo el día ahi
-[02:41:17] [Server thread/INFO]: [Not Secure] <TOBHAX> deja pue de rompe labola
-[02:41:22] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[02:41:29] [Server thread/INFO]: [Not Secure] <TOBHAX> WAKALA
-[02:41:34] [Server thread/INFO]: [Not Secure] <TOBHAX> CAMABIA ESTA BARBARIDAD
-[02:41:36] [Server thread/INFO]: [Not Secure] <Sammy757z> ajjajaajajj
-[02:42:12] [Server thread/INFO]: [Not Secure] <Jobelmax757> tricolor nico?
-[02:42:13] [Server thread/INFO]: [Not Secure] <Sammy757z> ajjajaj todo luque
-[02:42:17] [Server thread/INFO]: [Not Secure] <TOBHAX> UFFF
-[02:42:23] [Server thread/INFO]: [Not Secure] <TOBHAX> paraguay campeon
-[02:42:27] [Server thread/INFO]: [Not Secure] <Jobelmax757> bunker albirroja
-[02:42:49] [Server thread/INFO]: [Not Secure] <Jobelmax757> mira la tele chaval
-[02:43:01] [Server thread/INFO]: [Not Secure] <TavyronTujax> cortina latina
-[02:43:20] [Server thread/INFO]: [Not Secure] <Sammy757z> jaja
-[02:43:48] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[02:43:55] [Server thread/INFO]: [Not Secure] <TavyronTujax> kore este mbopi como me sigue
-[02:45:13] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[02:45:15] [Server thread/INFO]: [Not Secure] <Sammy757z> huele fatal el búnker quien pio no se baño
-[02:46:48] [Server thread/INFO]: [Not Secure] <TavyronTujax> este va a ser tu koty??
-[02:46:54] [Server thread/INFO]: [Not Secure] <TOBHAX> sis
-[02:47:09] [Server thread/INFO]: [Not Secure] <TavyronTujax> hay que expandir este muy inspirado en la vida real ya
-[02:47:12] [Server thread/INFO]: [Not Secure] <TavyronTujax> re cueva
-[02:47:48] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[02:48:29] [Server thread/INFO]: [Not Secure] <TavyronTujax> NDITAVYY
-[02:48:43] [Server thread/INFO]: [Not Secure] <TOBHAX> oa
-[02:49:00] [Server thread/INFO]: [Not Secure] <TavyronTujax> ME CAI
-[02:49:06] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[02:49:19] [Server thread/INFO]: [Not Secure] <TavyronTujax> DERRAMEN AGUA
-[02:50:15] [Server thread/INFO]: [Not Secure] <Jobelmax757> purete la bandera chaval?
-[02:50:24] [Server thread/INFO]: [Not Secure] <TOBHAX> sisi
-[02:50:27] [Server thread/INFO]: [Not Secure] <TOBHAX> re riko
-[02:51:01] [Server thread/INFO]: [Not Secure] <Sammy757z> pieza gaymer
-[02:51:33] [Server thread/INFO]: [Not Secure] <TavyronTujax> MBAEIO ESTE MBOPI
-[02:51:46] [Server thread/INFO]: [Jobelmax757: Gave 1 [Music Disc] to Jobelmax757]
-[02:52:42] [Server thread/INFO]: [Not Secure] <Sammy757z> todo boliviano
-[02:53:05] [Server thread/INFO]: [Not Secure] <Sammy757z> yo te veo chocolate todavía
-[02:53:26] [Server thread/INFO]: [Not Secure] <Sammy757z> que puerco tu skin
-[02:53:45] [Server thread/INFO]: [Not Secure] <Sammy757z> con razón olía fatal cerca tuyo
-[02:53:49] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAKAJAJ
-[02:54:21] [Server thread/INFO]: [Not Secure] <Jobelmax757> chaval queres madera?
-[02:54:33] [Server thread/INFO]: [Jobelmax757: Gave 40 [Oak Log] to Jobelmax757]
-[03:02:29] [Server thread/INFO]: [Not Secure] <Jobelmax757> LLENO DE POLLOS CHERA'aaa
-[03:02:56] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[03:03:26] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[03:04:32] [Server thread/INFO]: [Not Secure] <Jobelmax757> nico
-[03:04:36] [Server thread/INFO]: [Not Secure] <Jobelmax757> aca llenamos de cristales
-[03:04:38] [Server thread/INFO]: [Not Secure] <TOBHAX> ?
-[03:04:41] [Server thread/INFO]: [Not Secure] <Jobelmax757> asi se ve la cueva
-[03:04:43] [Server thread/INFO]: [Not Secure] <TOBHAX> siverda?
-[03:04:51] [Server thread/INFO]: [Not Secure] <Jobelmax757> voy a ir a traer
-[03:05:27] [Server thread/INFO]: Sammy757z has made the advancement [Take Aim]
-[03:07:12] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[03:07:14] [Server thread/INFO]: [Not Secure] <TavyronTujax> y el musikero reproductor??
-[03:07:27] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[03:08:32] [Server thread/INFO]: Sammy757z lost connection: Timed out
-[03:08:32] [Server thread/INFO]: Sammy757z left the game
-[03:10:43] [Server thread/INFO]: Sammy757z[/[0:0:0:0:0:0:0:1%0]:42152] logged in with entity id 21832 at (-153.68857504346877, 32.0, -270.07302218835315)
-[03:10:43] [Server thread/INFO]: Sammy757z joined the game
-[03:13:01] [Server thread/INFO]: [Not Secure] <Sammy757z> que purete la cueva
-[03:14:47] [Server thread/INFO]: [Not Secure] <Sammy757z> Nico dame el tocadico
-[03:15:15] [Server thread/INFO]: [Not Secure] <Sammy757z> Nico querés un arco?
-[03:15:24] [Server thread/INFO]: [Not Secure] <TOBHAX> jau
-[03:15:43] [Server thread/INFO]: [Not Secure] <Sammy757z> ahi te voy a hacer uno
-[03:15:44] [Server thread/INFO]: [Not Secure] <TOBHAX> aca toditas las kamas?
-[03:16:02] [Server thread/INFO]: [Not Secure] <Jobelmax757> aca va ser el centro de comando de los chavalisticos
-[03:16:26] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[03:16:35] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[03:17:07] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[03:19:33] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[03:20:25] [Server thread/INFO]: [Not Secure] <TOBHAX> komo cambiamos eso?
-[03:20:34] [Server thread/INFO]: [Not Secure] <Jobelmax757> q cosa
-[03:20:40] [Server thread/INFO]: [Not Secure] <TOBHAX> esa piedra
-[03:21:53] [Server thread/INFO]: [Not Secure] <Sammy757z> chabal ya tengo tu arquete no tengo muchas flechas porque el perdenal aparece cada medio año
-[03:22:08] [Server thread/INFO]: [Not Secure] <TOBHAX> tennkiu
-[03:22:23] [Server thread/INFO]: [Not Secure] <TOBHAX> tengo flechas shilin
-[03:23:31] [Server thread/INFO]: [Not Secure] <Sammy757z> hay que usar el spawn de esqueleto para tener muchas flechas
-[03:23:42] [Server thread/INFO]: [Not Secure] <TOBHAX> sisisis
-[03:24:01] [Server thread/INFO]: [Not Secure] <Jobelmax757> asi nico?
-[03:24:23] [Server thread/INFO]: [Not Secure] <TOBHAX> 😍
-[03:24:29] [Server thread/INFO]: [Not Secure] <Jobelmax757> ya tamo chaval
-[03:27:20] [Server thread/INFO]: [Not Secure] <Jobelmax757> yo tengo una textura que hace q conecte todo
-[03:27:44] [Server thread/INFO]: [Not Secure] <TOBHAX> pero no puedo desde la confi normal?
-[03:27:53] [Server thread/INFO]: [Not Secure] <Jobelmax757> creo q si
-[03:28:09] [Server thread/INFO]: [Not Secure] <Jobelmax757> no sé donde era nms
-[03:28:12] [Server thread/INFO]: [Not Secure] <Jobelmax757> vos tenes optifine?
-[03:28:19] [Server thread/INFO]: [Not Secure] <TOBHAX> sisis
-[03:28:23] [Server thread/INFO]: [Not Secure] <Jobelmax757> en detalles
-[03:28:25] [Server thread/INFO]: [Not Secure] <Jobelmax757> creo
-[03:28:29] [Server thread/INFO]: [Not Secure] <Jobelmax757> aver miro tu stream
-[03:28:54] [Server thread/INFO]: [Not Secure] <Jobelmax757> graficos y detalles
-[03:29:19] [Server thread/INFO]: [Not Secure] <Jobelmax757> ese bordes no es?
-[03:30:01] [Server thread/INFO]: [Not Secure] <Jobelmax757> AHH
-[03:30:03] [Server thread/INFO]: [Not Secure] <Jobelmax757> en calidad
-[03:30:07] [Server thread/INFO]: [Not Secure] <Jobelmax757> graficos y calidad
-[03:30:23] [Server thread/INFO]: [Not Secure] <Jobelmax757> bloques unidos
-[03:31:01] [Server thread/INFO]: [Not Secure] <Jobelmax757> full 4k
-[03:31:34] [Server thread/INFO]: [Not Secure] <Sammy757z> chabal toca exclavisa aldeanos
-[03:32:11] [Server thread/INFO]: [Not Secure] <Sammy757z> con la granja de hilo hacemos esmeralda y después nos checamos todo
-[03:33:35] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[03:33:41] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[03:34:13] [Server thread/INFO]: TOBHAX lost connection: Timed out
-[03:34:13] [Server thread/INFO]: TOBHAX left the game
-[03:34:44] [Server thread/INFO]: TavyronTujax lost connection: Timed out
-[03:34:44] [Server thread/INFO]: TavyronTujax left the game
-[03:34:47] [Server thread/INFO]: Stopping the server
-[03:34:47] [Server thread/INFO]: Stopping server
-[03:34:47] [Server thread/INFO]: Saving players
-[03:34:47] [Server thread/INFO]: Saving worlds
-[03:34:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:34:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:34:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:34:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:34:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:34:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:34:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:31:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:31:44] [ServerMain/INFO]: No existing world data, creating new world
+[01:31:45] [ServerMain/INFO]: Loaded 7 recipes
+[01:31:45] [ServerMain/INFO]: Loaded 1271 advancements
+[01:31:46] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[01:31:46] [Server thread/INFO]: Loading properties
+[01:31:46] [Server thread/INFO]: Default game type: SURVIVAL
+[01:31:46] [Server thread/INFO]: Generating keypair
+[01:31:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:31:46] [Server thread/INFO]: Using epoll channel type
+[01:31:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:31:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:31:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:31:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:31:46] [Server thread/INFO]: Preparing level "world"
+[01:31:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:31:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:31:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:31:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:31:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:31:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:31:54] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[01:31:54] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[01:31:55] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[01:31:55] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[01:31:55] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[01:31:56] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[01:31:56] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[01:31:57] [Worker-Main-2/INFO]: Preparing spawn area: 8%
+[01:31:58] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[01:31:58] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[01:31:59] [Worker-Main-3/INFO]: Preparing spawn area: 12%
+[01:31:59] [Worker-Main-2/INFO]: Preparing spawn area: 14%
+[01:32:00] [Worker-Main-3/INFO]: Preparing spawn area: 15%
+[01:32:00] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[01:32:01] [Worker-Main-2/INFO]: Preparing spawn area: 19%
+[01:32:01] [Worker-Main-3/INFO]: Preparing spawn area: 21%
+[01:32:01] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[01:32:02] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[01:32:02] [Worker-Main-2/INFO]: Preparing spawn area: 26%
+[01:32:03] [Worker-Main-1/INFO]: Preparing spawn area: 29%
+[01:32:04] [Worker-Main-2/INFO]: Preparing spawn area: 30%
+[01:32:04] [Worker-Main-1/INFO]: Preparing spawn area: 31%
+[01:32:04] [Worker-Main-1/INFO]: Preparing spawn area: 33%
+[01:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 35%
+[01:32:06] [Worker-Main-2/INFO]: Preparing spawn area: 38%
+[01:32:06] [Worker-Main-1/INFO]: Preparing spawn area: 40%
+[01:32:06] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[01:32:07] [Worker-Main-2/INFO]: Preparing spawn area: 44%
+[01:32:07] [Worker-Main-3/INFO]: Preparing spawn area: 46%
+[01:32:08] [Worker-Main-3/INFO]: Preparing spawn area: 50%
+[01:32:08] [Worker-Main-3/INFO]: Preparing spawn area: 53%
+[01:32:09] [Worker-Main-3/INFO]: Preparing spawn area: 55%
+[01:32:09] [Worker-Main-3/INFO]: Preparing spawn area: 57%
+[01:32:10] [Worker-Main-1/INFO]: Preparing spawn area: 61%
+[01:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 63%
+[01:32:11] [Worker-Main-3/INFO]: Preparing spawn area: 66%
+[01:32:12] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[01:32:12] [Worker-Main-2/INFO]: Preparing spawn area: 69%
+[01:32:12] [Worker-Main-2/INFO]: Preparing spawn area: 72%
+[01:32:13] [Worker-Main-3/INFO]: Preparing spawn area: 76%
+[01:32:13] [Worker-Main-1/INFO]: Preparing spawn area: 79%
+[01:32:14] [Worker-Main-2/INFO]: Preparing spawn area: 82%
+[01:32:14] [Worker-Main-1/INFO]: Preparing spawn area: 84%
+[01:32:15] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[01:32:15] [Worker-Main-3/INFO]: Preparing spawn area: 89%
+[01:32:16] [Worker-Main-3/INFO]: Preparing spawn area: 93%
+[01:32:17] [Worker-Main-2/INFO]: Preparing spawn area: 96%
+[01:32:17] [Server thread/INFO]: Time elapsed: 25900 ms
+[01:32:17] [Server thread/INFO]: Done (31.116s)! For help, type "help"
+[01:32:23] [Server thread/INFO]: Jobelmax757[/[0:0:0:0:0:0:0:1%0]:38114] logged in with entity id 252 at (475.5, 63.0, -640.5)
+[01:32:23] [Server thread/INFO]: Jobelmax757 joined the game
+[01:36:47] [Server thread/INFO]: Jobelmax757 lost connection: You logged in from another location
+[01:36:47] [Server thread/INFO]: Jobelmax757 left the game
+[01:36:47] [Server thread/WARN]: handleDisconnection() called twice
+[01:36:48] [Server thread/INFO]: Jobelmax757[/[0:0:0:0:0:0:0:1%0]:36444] logged in with entity id 1234 at (495.4983125253084, 67.0, -649.7223831615651)
+[01:36:48] [Server thread/INFO]: Jobelmax757 joined the game
+[01:37:15] [Server thread/INFO]: Jobelmax757 has made the advancement [Stone Age]
+[01:37:32] [Server thread/INFO]: Jobelmax757 has made the advancement [Getting an Upgrade]
