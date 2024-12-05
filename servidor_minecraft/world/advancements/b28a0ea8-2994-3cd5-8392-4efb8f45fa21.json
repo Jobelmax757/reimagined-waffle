@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2024-12-05 02:07:13 +0000",
+      "minecraft:savanna_plateau": "2024-12-05 19:03:18 +0000",
       "minecraft:beach": "2024-12-05 01:42:22 +0000",
       "minecraft:forest": "2024-12-05 02:16:15 +0000",
       "minecraft:ocean": "2024-12-05 02:03:29 +0000",
@@ -15,6 +16,7 @@
       "minecraft:river": "2024-12-05 02:05:34 +0000",
       "minecraft:birch_forest": "2024-12-05 01:58:20 +0000",
       "minecraft:dripstone_caves": "2024-12-05 02:50:31 +0000",
+      "minecraft:savanna": "2024-12-05 19:03:20 +0000",
       "minecraft:plains": "2024-12-05 02:24:18 +0000"
     },
     "done": false
@@ -813,6 +815,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-05 19:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-05 19:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-05 19:04:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-05 18:56:03 +0000"
@@ -828,6 +848,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-05 18:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-05 19:04:09 +0000"
     },
     "done": true
   },
