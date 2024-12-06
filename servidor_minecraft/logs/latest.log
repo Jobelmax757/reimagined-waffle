@@ -36,3 +36,16 @@
 [00:27:41] [Server thread/INFO]: Jobelmax757 left the game
 [00:29:16] [Server thread/INFO]: vodka61[/[0:0:0:0:0:0:0:1%0]:50014] logged in with entity id 70728 at (1241.5, 126.5625, -1288.5)
 [00:29:16] [Server thread/INFO]: vodka61 joined the game
+[00:32:01] [Server thread/INFO]: vodka61 lost connection: Timed out
+[00:32:01] [Server thread/INFO]: vodka61 left the game
+[00:38:42] [Server thread/INFO]: Stopping the server
+[00:38:43] [Server thread/INFO]: Stopping server
+[00:38:43] [Server thread/INFO]: Saving players
+[00:38:43] [Server thread/INFO]: Saving worlds
+[00:38:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:38:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:38:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:38:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:38:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:38:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:38:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
