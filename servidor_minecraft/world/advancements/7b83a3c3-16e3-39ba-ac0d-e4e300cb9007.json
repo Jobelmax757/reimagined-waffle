@@ -19,6 +19,7 @@
       "minecraft:jungle": "2024-12-05 23:24:23 +0000",
       "minecraft:cherry_grove": "2024-12-05 02:25:56 +0000",
       "minecraft:birch_forest": "2024-12-05 01:33:00 +0000",
+      "minecraft:savanna": "2024-12-06 17:18:39 +0000",
       "minecraft:bamboo_jungle": "2024-12-05 23:18:06 +0000",
       "minecraft:plains": "2024-12-05 02:24:16 +0000",
       "minecraft:warm_ocean": "2024-12-05 23:07:20 +0000",
@@ -1909,6 +1910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-06 17:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-06 16:58:51 +0000"
@@ -1918,6 +1925,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-06 16:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-06 17:22:44 +0000"
     },
     "done": true
   },
@@ -2071,6 +2084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-06 17:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-06 16:38:34 +0000"
@@ -2080,6 +2099,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-06 16:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-06 17:22:44 +0000"
     },
     "done": true
   },
