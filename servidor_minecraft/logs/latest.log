@@ -1,41 +1,62 @@
-[00:56:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:56:10] [ServerMain/INFO]: Loaded 7 recipes
-[00:56:11] [ServerMain/INFO]: Loaded 1271 advancements
-[00:56:11] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[00:56:11] [Server thread/INFO]: Loading properties
-[00:56:11] [Server thread/INFO]: Default game type: SURVIVAL
-[00:56:11] [Server thread/INFO]: Generating keypair
-[00:56:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:56:11] [Server thread/INFO]: Using epoll channel type
-[00:56:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:56:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:56:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:56:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:56:11] [Server thread/INFO]: Preparing level "world"
-[00:56:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:56:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:56:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:56:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:56:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:56:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:56:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:56:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:56:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:56:18] [Worker-Main-1/INFO]: Preparing spawn area: 16%
-[00:56:18] [Server thread/INFO]: Time elapsed: 4370 ms
-[00:56:18] [Server thread/INFO]: Done (7.032s)! For help, type "help"
-[00:57:49] [Server thread/INFO]: Jobelmax757[/[0:0:0:0:0:0:0:1%0]:38470] logged in with entity id 32 at (1242.5537396731797, 126.5625, -1288.441436214205)
-[00:57:49] [Server thread/INFO]: Jobelmax757 joined the game
-[01:02:11] [Server thread/INFO]: Stopping the server
-[01:02:11] [Server thread/INFO]: Stopping server
-[01:02:11] [Server thread/INFO]: Saving players
-[01:02:11] [Server thread/INFO]: Jobelmax757 lost connection: Server closed
-[01:02:11] [Server thread/INFO]: Jobelmax757 left the game
-[01:02:11] [Server thread/INFO]: Saving worlds
-[01:02:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:02:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:02:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:02:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:02:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:02:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:02:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:13:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:13:48] [ServerMain/INFO]: Loaded 7 recipes
+[16:13:49] [ServerMain/INFO]: Loaded 1271 advancements
+[16:13:49] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[16:13:49] [Server thread/INFO]: Loading properties
+[16:13:49] [Server thread/INFO]: Default game type: SURVIVAL
+[16:13:49] [Server thread/INFO]: Generating keypair
+[16:13:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:13:49] [Server thread/INFO]: Using epoll channel type
+[16:13:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:13:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:13:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:13:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:13:49] [Server thread/INFO]: Preparing level "world"
+[16:13:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:13:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:13:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:13:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:13:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:13:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:13:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:13:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:13:56] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[16:13:57] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[16:13:57] [Worker-Main-2/INFO]: Preparing spawn area: 7%
+[16:13:58] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[16:13:58] [Worker-Main-2/INFO]: Preparing spawn area: 12%
+[16:13:59] [Worker-Main-3/INFO]: Preparing spawn area: 14%
+[16:13:59] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[16:14:00] [Worker-Main-2/INFO]: Preparing spawn area: 19%
+[16:14:00] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[16:14:01] [Worker-Main-2/INFO]: Preparing spawn area: 26%
+[16:14:01] [Worker-Main-2/INFO]: Preparing spawn area: 26%
+[16:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 29%
+[16:14:02] [Worker-Main-2/INFO]: Preparing spawn area: 32%
+[16:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 36%
+[16:14:03] [Worker-Main-2/INFO]: Preparing spawn area: 37%
+[16:14:04] [Worker-Main-3/INFO]: Preparing spawn area: 40%
+[16:14:04] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[16:14:05] [Worker-Main-2/INFO]: Preparing spawn area: 45%
+[16:14:05] [Worker-Main-2/INFO]: Preparing spawn area: 47%
+[16:14:06] [Worker-Main-1/INFO]: Preparing spawn area: 50%
+[16:14:06] [Worker-Main-3/INFO]: Preparing spawn area: 54%
+[16:14:07] [Worker-Main-2/INFO]: Preparing spawn area: 55%
+[16:14:07] [Worker-Main-2/INFO]: Preparing spawn area: 58%
+[16:14:08] [Worker-Main-2/INFO]: Preparing spawn area: 61%
+[16:14:08] [Worker-Main-2/INFO]: Preparing spawn area: 64%
+[16:14:09] [Worker-Main-1/INFO]: Preparing spawn area: 67%
+[16:14:09] [Worker-Main-3/INFO]: Preparing spawn area: 70%
+[16:14:10] [Worker-Main-3/INFO]: Preparing spawn area: 73%
+[16:14:10] [Worker-Main-3/INFO]: Preparing spawn area: 78%
+[16:14:11] [Worker-Main-3/INFO]: Preparing spawn area: 80%
+[16:14:11] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[16:14:12] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[16:14:12] [Worker-Main-1/INFO]: Preparing spawn area: 92%
+[16:14:13] [Worker-Main-1/INFO]: Preparing spawn area: 96%
+[16:14:13] [Server thread/INFO]: Time elapsed: 20337 ms
+[16:14:13] [Server thread/INFO]: Done (23.549s)! For help, type "help"
+[16:14:16] [Server thread/INFO]: Jobelmax757[/[0:0:0:0:0:0:0:1%0]:35624] logged in with entity id 129 at (1241.2160982161495, 127.0, -1278.925000011921)
+[16:14:16] [Server thread/INFO]: Jobelmax757 joined the game
+[16:21:35] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
+[16:21:42] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
