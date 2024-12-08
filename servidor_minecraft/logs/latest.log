@@ -1,344 +1,38 @@
-[16:13:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:13:48] [ServerMain/INFO]: Loaded 7 recipes
-[16:13:49] [ServerMain/INFO]: Loaded 1271 advancements
-[16:13:49] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[16:13:49] [Server thread/INFO]: Loading properties
-[16:13:49] [Server thread/INFO]: Default game type: SURVIVAL
-[16:13:49] [Server thread/INFO]: Generating keypair
-[16:13:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:13:49] [Server thread/INFO]: Using epoll channel type
-[16:13:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:13:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:13:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:13:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:13:49] [Server thread/INFO]: Preparing level "world"
-[16:13:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:13:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:13:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:13:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:13:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:13:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:13:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:13:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:13:56] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[16:13:57] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[16:13:57] [Worker-Main-2/INFO]: Preparing spawn area: 7%
-[16:13:58] [Worker-Main-3/INFO]: Preparing spawn area: 10%
-[16:13:58] [Worker-Main-2/INFO]: Preparing spawn area: 12%
-[16:13:59] [Worker-Main-3/INFO]: Preparing spawn area: 14%
-[16:13:59] [Worker-Main-2/INFO]: Preparing spawn area: 17%
-[16:14:00] [Worker-Main-2/INFO]: Preparing spawn area: 19%
-[16:14:00] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[16:14:01] [Worker-Main-2/INFO]: Preparing spawn area: 26%
-[16:14:01] [Worker-Main-2/INFO]: Preparing spawn area: 26%
-[16:14:02] [Worker-Main-3/INFO]: Preparing spawn area: 29%
-[16:14:02] [Worker-Main-2/INFO]: Preparing spawn area: 32%
-[16:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 36%
-[16:14:03] [Worker-Main-2/INFO]: Preparing spawn area: 37%
-[16:14:04] [Worker-Main-3/INFO]: Preparing spawn area: 40%
-[16:14:04] [Worker-Main-2/INFO]: Preparing spawn area: 42%
-[16:14:05] [Worker-Main-2/INFO]: Preparing spawn area: 45%
-[16:14:05] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[16:14:06] [Worker-Main-1/INFO]: Preparing spawn area: 50%
-[16:14:06] [Worker-Main-3/INFO]: Preparing spawn area: 54%
-[16:14:07] [Worker-Main-2/INFO]: Preparing spawn area: 55%
-[16:14:07] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[16:14:08] [Worker-Main-2/INFO]: Preparing spawn area: 61%
-[16:14:08] [Worker-Main-2/INFO]: Preparing spawn area: 64%
-[16:14:09] [Worker-Main-1/INFO]: Preparing spawn area: 67%
-[16:14:09] [Worker-Main-3/INFO]: Preparing spawn area: 70%
-[16:14:10] [Worker-Main-3/INFO]: Preparing spawn area: 73%
-[16:14:10] [Worker-Main-3/INFO]: Preparing spawn area: 78%
-[16:14:11] [Worker-Main-3/INFO]: Preparing spawn area: 80%
-[16:14:11] [Worker-Main-3/INFO]: Preparing spawn area: 83%
-[16:14:12] [Worker-Main-2/INFO]: Preparing spawn area: 87%
-[16:14:12] [Worker-Main-1/INFO]: Preparing spawn area: 92%
-[16:14:13] [Worker-Main-1/INFO]: Preparing spawn area: 96%
-[16:14:13] [Server thread/INFO]: Time elapsed: 20337 ms
-[16:14:13] [Server thread/INFO]: Done (23.549s)! For help, type "help"
-[16:14:16] [Server thread/INFO]: Jobelmax757[/[0:0:0:0:0:0:0:1%0]:35624] logged in with entity id 129 at (1241.2160982161495, 127.0, -1278.925000011921)
-[16:14:16] [Server thread/INFO]: Jobelmax757 joined the game
-[16:21:35] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[16:21:42] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[16:32:44] [Server thread/INFO]: vodkaa7[/[0:0:0:0:0:0:0:1%0]:39052] logged in with entity id 3266 at (487.5, 66.0, -644.5)
-[16:32:44] [Server thread/INFO]: vodkaa7 joined the game
-[16:33:03] [Server thread/INFO]: [Not Secure] <vodkaa7> que
-[16:33:13] [Server thread/INFO]: [Not Secure] <Jobelmax757> qqq
-[16:33:18] [Server thread/INFO]: [Not Secure] <vodkaa7> y mi casa
-[16:33:18] [Server thread/INFO]: [Not Secure] <Jobelmax757> no se te guardo el spawn?
-[16:33:23] [Server thread/INFO]: [Not Secure] <vodkaa7> n
-[16:33:34] [Server thread/INFO]: [Not Secure] <vodkaa7> tp
-[16:33:34] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to 1247.500000, 126.600000, -1287.000000]
-[16:33:36] [Server thread/INFO]: [Not Secure] <vodkaa7> tp
-[16:33:38] [Server thread/INFO]: [Not Secure] <vodkaa7> tp
-[16:33:41] [Server thread/INFO]: [Jobelmax757: Teleported Jobelmax757 to vodkaa7]
-[16:33:44] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=485, y=65, z=-642}
-[16:33:44] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=484, y=65, z=-641}
-[16:33:46] [Server thread/INFO]: [Not Secure] <Jobelmax757> QQQ amor
-[16:33:46] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=480, y=66, z=-638}
-[16:33:47] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=481, y=66, z=-638}
-[16:33:47] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=481, y=67, z=-637}
-[16:33:47] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=481, y=67, z=-636}
-[16:33:50] [Server thread/INFO]: [Not Secure] <Jobelmax757> porque te cambiaste el nombre AJSDASDJ
-[16:33:50] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=490, y=65, z=-643}
-[16:33:51] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=489, y=65, z=-642}
-[16:33:51] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=490, y=65, z=-643}
-[16:33:51] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=490, y=65, z=-644}
-[16:33:51] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=491, y=65, z=-645}
-[16:33:52] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=491, y=66, z=-646}
-[16:33:52] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=491, y=66, z=-646}
-[16:33:52] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=492, y=66, z=-647}
-[16:33:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=493, y=66, z=-648}
-[16:33:54] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=493, y=66, z=-648}
-[16:34:00] [Server thread/INFO]: [Not Secure] <Jobelmax757> sabes q en el otro nombre se te guarda todo tus cosas?
-[16:34:01] [Server thread/INFO]: [Not Secure] <vodkaa7> porque estaba horrible el otro
-[16:34:05] [Server thread/INFO]: [Not Secure] <Jobelmax757> uh
-[16:34:25] [Server thread/INFO]: [Jobelmax757: Teleported 2 entities to 1247.500000, 126.600000, -1287.000000]
-[16:34:41] [Server thread/INFO]: [Not Secure] <Jobelmax757> y tus cosas del inventario solo lo tiene el otro nombre
-[16:34:47] [Server thread/INFO]: [Not Secure] <vodkaa7> aja
-[16:34:53] [Server thread/INFO]: [Not Secure] <vodkaa7> lo traigo?
-[16:34:57] [Server thread/INFO]: [Not Secure] <Jobelmax757> AJSDASJD si
-[16:35:03] [Server thread/INFO]: [Not Secure] <Jobelmax757> cambiate el nombre y guarda tus cosas
-[16:35:29] [Server thread/INFO]: vodkaa7 lost connection: Timed out
-[16:35:29] [Server thread/INFO]: vodkaa7 left the game
-[16:40:55] [Server thread/INFO]: vodka61[/[0:0:0:0:0:0:0:1%0]:54798] logged in with entity id 5080 at (1244.9864203506704, 126.0, -1287.911678131388)
-[16:40:55] [Server thread/INFO]: vodka61 joined the game
-[16:41:12] [Server thread/INFO]: [Not Secure] <vodka61> aña
-[16:41:18] [Server thread/INFO]: [Not Secure] <Jobelmax757> wasa
-[16:41:42] [Server thread/INFO]: Jobelmax757 has made the advancement [The Parrots and the Bats]
-[16:41:58] [Server thread/INFO]: [Not Secure] <Jobelmax757> JASDJASJ
-[16:42:02] [Server thread/INFO]: [Not Secure] <Jobelmax757> abejita
-[16:42:55] [Server thread/INFO]: vodka61 lost connection: Timed out
-[16:42:55] [Server thread/INFO]: vodka61 left the game
-[16:46:31] [Server thread/INFO]: vodkaa7[/[0:0:0:0:0:0:0:1%0]:48448] logged in with entity id 6315 at (1239.3468935851358, 122.0, -1276.1860046269182)
-[16:46:31] [Server thread/INFO]: vodkaa7 joined the game
-[16:47:52] [Server thread/INFO]: [Not Secure] <vodkaa7> que
-[16:47:58] [Server thread/INFO]: [Not Secure] <vodkaa7> y los cultivos
-[16:48:06] [Server thread/INFO]: [Not Secure] <vodkaa7> se los comieron o que
-[16:48:12] [Server thread/INFO]: [Not Secure] <Jobelmax757> los saque
-[16:48:25] [Server thread/INFO]: [Not Secure] <Jobelmax757> amor plantaste mal las sandias y las calabazas
-[16:48:33] [Server thread/INFO]: [Not Secure] <vodkaa7> ni modo
-[16:48:37] [Server thread/INFO]: [Not Secure] <Jobelmax757> tienen que tener un bloque de espacio al lado para que crezca
-[16:48:44] [Server thread/INFO]: [Not Secure] <vodkaa7> no sabia cual es cual
-[16:50:40] [Server thread/INFO]: vodkaa7 has made the advancement [Sweet Dreams]
-[16:50:40] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJAJ
-[16:51:12] [Server thread/INFO]: [Not Secure] <Jobelmax757> deberiamos plantar patatas
-[16:51:19] [Server thread/INFO]: [Not Secure] <vodkaa7> buscamos??
-[16:51:21] [Server thread/INFO]: [Not Secure] <Jobelmax757> dale
-[16:51:44] [Server thread/INFO]: [Not Secure] <Jobelmax757> hay que minar diamantes primero
-[16:52:00] [Server thread/INFO]: [Not Secure] <Jobelmax757> vamos a minar
-[16:52:54] [Server thread/INFO]: vodkaa7 has made the advancement [Stone Age]
-[16:57:36] [Server thread/INFO]: vodkaa7 was slain by Enderman
-[16:57:40] [Server thread/INFO]: [Not Secure] <Jobelmax757> SHDFSDFH
-[16:57:41] [Server thread/INFO]: [Not Secure] <vodkaa7> PSOKFPODPKF
-[16:57:47] [Server thread/INFO]: [Not Secure] <vodkaa7> ni lo vi anda
-[16:57:49] [Server thread/INFO]: [Jobelmax757: The difficulty has been set to Peaceful]
-[16:57:53] [Server thread/INFO]: [Jobelmax757: Teleported vodkaa7 to Jobelmax757]
-[16:58:44] [Server thread/INFO]: [Not Secure] <vodkaa7> amor
-[16:58:49] [Server thread/INFO]: [Not Secure] <Jobelmax757> oro
-[16:58:59] [Server thread/INFO]: [Not Secure] <Jobelmax757> mira
-[17:00:05] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJA mira esto
-[17:00:08] [Server thread/INFO]: [Not Secure] <Jobelmax757> amor
-[17:00:14] [Server thread/INFO]: [Not Secure] <Jobelmax757> rre bug
-[17:00:21] [Server thread/INFO]: [Not Secure] <Jobelmax757> uy lo desbugeaste AJSDASjd
-[17:00:47] [Server thread/INFO]: [Not Secure] <vodkaa7> fijate arriba tambien
-[17:02:57] [Server thread/INFO]: [Not Secure] <Jobelmax757> aca hay diamantes
-[17:03:37] [Server thread/INFO]: [Not Secure] <vodkaa7> mira
-[17:03:44] [Server thread/INFO]: vodkaa7 has made the advancement [Diamonds!]
-[17:03:54] [Server thread/INFO]: [Not Secure] <vodkaa7> aca
-[17:05:20] [Server thread/INFO]: [Not Secure] <Jobelmax757> mira
-[17:05:25] [Server thread/INFO]: [Not Secure] <Jobelmax757> JASDJASd
-[17:05:25] [Server thread/INFO]: [Not Secure] <vodkaa7> XD
-[17:06:05] [Server thread/INFO]: [Not Secure] <Jobelmax757> vamos a picar obs
-[17:06:23] [Server thread/INFO]: vodkaa7 has made the advancement [Ice Bucket Challenge]
-[17:07:21] [Server thread/INFO]: Jobelmax757 has made the advancement [Ice Bucket Challenge]
-[17:08:09] [Server thread/INFO]: [Not Secure] <Jobelmax757> sabia
-[17:08:10] [Server thread/INFO]: [Not Secure] <Jobelmax757> JASDJAS
-[17:08:38] [Server thread/INFO]: Jobelmax757 has made the advancement [Hot Stuff]
-[17:09:03] [Server thread/INFO]: [Not Secure] <Jobelmax757> cuidado
-[17:09:07] [Server thread/INFO]: [Not Secure] <Jobelmax757> se me perdio el agua
-[17:09:17] [Server thread/INFO]: [Not Secure] <Jobelmax757> cuanto teneS?
-[17:09:22] [Server thread/INFO]: [Not Secure] <vodkaa7> 12
-[17:09:25] [Server thread/INFO]: [Not Secure] <Jobelmax757> ya ta
-[17:09:32] [Server thread/INFO]: [Not Secure] <Jobelmax757> uy para
-[17:09:35] [Server thread/INFO]: [Not Secure] <Jobelmax757> falta 2 más para una mesa
-[17:10:04] [Server thread/INFO]: [Not Secure] <Jobelmax757> ya
-[17:10:27] [Server thread/INFO]: [Not Secure] <Jobelmax757> no tengo agua amor
-[17:10:28] [Server thread/INFO]: [Not Secure] <Jobelmax757> cuidado
-[17:14:23] [Server thread/INFO]: [Jobelmax757: Played sound minecraft:cave to 2 players]
-[17:14:35] [Server thread/INFO]: [Jobelmax757: Played sound minecraft:ambient.cave to 2 players]
-[17:14:44] [Server thread/INFO]: [Not Secure] <Jobelmax757> va a salir herobrine
-[17:14:53] [Server thread/INFO]: [Jobelmax757: Played sound minecraft:ambient.cave to 2 players]
-[17:16:49] [Server thread/INFO]: [Jobelmax757: Played sound minecraft:ambient.cave to 2 players]
-[17:18:36] [Server thread/INFO]: [Not Secure] <Jobelmax757> AJSDASDJ
-[17:20:17] [Server thread/INFO]: [Not Secure] <Jobelmax757> mira
-[17:20:21] [Server thread/INFO]: [Not Secure] <Jobelmax757> waterdrop epico
-[17:20:22] [Server thread/INFO]: [Not Secure] <vodkaa7> alla amor
-[17:22:06] [Server thread/INFO]: [Not Secure] <Jobelmax757> otra geoda
-[17:24:12] [Server thread/INFO]: [Not Secure] <Jobelmax757> nos dimos la vuelta
-[17:24:13] [Server thread/INFO]: [Not Secure] <Jobelmax757> AJSDASJ
-[17:27:43] [Server thread/INFO]: [Not Secure] <vodkaa7> aca
-[17:28:32] [Server thread/INFO]: [Not Secure] <Jobelmax757> hago tp a la casa
-[17:28:35] [Server thread/INFO]: [Not Secure] <Jobelmax757> mucha mineria aSDJASD
-[17:28:37] [Server thread/INFO]: [Not Secure] <vodkaa7> bueno
-[17:28:53] [Server thread/INFO]: [Jobelmax757: Teleported 2 entities to 1247.500000, 126.600000, -1287.000000]
-[17:29:06] [Server thread/INFO]: [Not Secure] <vodkaa7> aaa
-[17:29:08] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJ
-[17:30:49] [Server thread/INFO]: [Not Secure] <vodkaa7> afk un rato
-[17:30:52] [Server thread/INFO]: [Not Secure] <Jobelmax757> oki amor
-[17:33:48] [Server thread/INFO]: Jobelmax757 has made the advancement [We Need to Go Deeper]
-[17:33:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3373ms or 67 ticks behind
-[17:34:22] [Server thread/INFO]: [Jobelmax757: Set own game mode to Spectator Mode]
-[17:35:01] [Server thread/WARN]: Jobelmax757 moved too quickly! -9.79999107728596,-3.3028347952812567,-0.001268410000136555
-[17:35:38] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[17:35:46] [Server thread/INFO]: vodkaa7 has made the advancement [We Need to Go Deeper]
-[17:36:47] [Server thread/INFO]: [Not Secure] <Jobelmax757> todavia no hay que explorar
-[17:36:49] [Server thread/INFO]: [Not Secure] <Jobelmax757> o q morimo
-[17:37:05] [Server thread/INFO]: [Not Secure] <Jobelmax757> hay que entrar con full diamante
-[17:37:05] [Server thread/INFO]: [Not Secure] <vodkaa7> y porque aca
-[17:37:14] [Server thread/INFO]: [Not Secure] <Jobelmax757> nosé SJFSEJF
-[17:40:56] [Server thread/INFO]: [Not Secure] <Jobelmax757> hay que buscar patatas
-[17:41:09] [Server thread/INFO]: [Not Secure] <Jobelmax757> pollito con papa
-[17:42:45] [Server thread/INFO]: vodkaa7 has made the advancement [Acquire Hardware]
-[17:43:55] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[17:44:14] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[17:46:47] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1248, y=123, z=-1311} hx{x=1249, y=122, z=-1309}
-[17:46:47] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1248, y=123, z=-1311} hx{x=1249, y=122, z=-1309}
-[17:48:33] [Server thread/INFO]: [Not Secure] <Jobelmax757> estoy haciendo el mural amor
-[17:51:18] [Server thread/INFO]: [Not Secure] <Jobelmax757> ahi ta
-[17:52:01] [Server thread/INFO]: [Jobelmax757: The difficulty has been set to Normal]
-[17:52:10] [Server thread/INFO]: [Not Secure] <Jobelmax757> hay que hacer noni
-[17:53:32] [Server thread/INFO]: [Not Secure] <Jobelmax757> mira
-[17:53:50] [Server thread/INFO]: [Not Secure] <Jobelmax757> amor mira
-[17:54:19] [Server thread/INFO]: [Not Secure] <Jobelmax757> pa q no entren los mobs
-[17:54:51] [Server thread/INFO]: [Not Secure] <Jobelmax757> AHJSDAJSD tan alto
-[17:55:18] [Server thread/INFO]: [Not Secure] <Jobelmax757> asi parece una fortaleza
-[17:55:25] [Server thread/INFO]: [Not Secure] <Jobelmax757> por eso no lo hice tan alto
-[17:55:48] [Server thread/INFO]: [Not Secure] <Jobelmax757> solo es para que no entren los mobs
-[17:55:55] [Server thread/INFO]: [Not Secure] <Jobelmax757> desde fuera no se puede
-[18:02:25] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1238, y=110, z=-1253} hx{x=1238, y=109, z=-1254}
-[18:02:48] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=1237, y=109, z=-1249} hx{x=1237, y=108, z=-1248}
-[18:05:07] [Server thread/INFO]: [Not Secure] <Jobelmax757> amor amora
-[18:05:10] [Server thread/INFO]: [Not Secure] <Jobelmax757> noni
-[18:05:36] [Server thread/INFO]: [Not Secure] <Jobelmax757> te amo
-[18:06:56] [Server thread/INFO]: [Not Secure] <Jobelmax757> para q es esta zona?
-[18:07:12] [Server thread/INFO]: [Not Secure] <Jobelmax757> amor
-[18:08:19] [Server thread/INFO]: vodkaa7 has made the advancement [Monster Hunter]
-[18:08:29] [Server thread/INFO]: [Not Secure] <vodkaa7> ENDERPELLL
-[18:08:32] [Server thread/INFO]: [Not Secure] <Jobelmax757> JAJAJAJ
-[18:08:53] [Server thread/INFO]: [Not Secure] <Jobelmax757> ahora hace falta pocion de veneno II
-[18:09:22] [Server thread/INFO]: [Not Secure] <Jobelmax757> amorr
-[18:09:27] [Server thread/INFO]: [Not Secure] <vodkaa7> QUE
-[18:09:32] [Server thread/INFO]: [Not Secure] <Jobelmax757> te amo
-[18:10:02] [Server thread/INFO]: [Not Secure] <Jobelmax757> tu ya no me quieres o q :,v
-[18:10:13] [Server thread/INFO]: [Not Secure] <vodkaa7> no ves que estoy haciendo cosas??
-[18:10:20] [Server thread/INFO]: [Not Secure] <Jobelmax757> :,vv
-[18:23:33] [Server thread/INFO]: [Not Secure] <Jobelmax757> ya volví
-[18:23:46] [Server thread/INFO]: [Not Secure] <vodkaa7> mira
-[18:24:00] [Server thread/INFO]: [Not Secure] <Jobelmax757> Qlindoo
-[18:24:12] [Server thread/INFO]: [Not Secure] <Jobelmax757> cuando sea el atardecer voy a hacer la foto
-[18:24:21] [Server thread/INFO]: [Not Secure] <vodkaa7> vamos
-[18:25:11] [Server thread/INFO]: Jobelmax757 lost connection: Timed out
-[18:25:11] [Server thread/INFO]: Jobelmax757 left the game
-[18:38:51] [Server thread/INFO]: vodkaa7 was blown up by Creeper
-[19:19:15] [Server thread/INFO]: Jobelmax757[/[0:0:0:0:0:0:0:1%0]:53006] logged in with entity id 30443 at (1227.9709207297694, 121.5, -1282.8037632433577)
-[19:19:15] [Server thread/INFO]: Jobelmax757 joined the game
-[19:19:42] [Server thread/INFO]: [Not Secure] <Jobelmax757> ala
-[19:19:50] [Server thread/INFO]: [Not Secure] <Jobelmax757> me encanta
-[19:20:04] [Server thread/INFO]: [Not Secure] <Jobelmax757> uff
-[19:20:16] [Server thread/INFO]: [Not Secure] <Jobelmax757> me encanto amor
-[19:20:20] [Server thread/INFO]: [Not Secure] <Jobelmax757> 10/10
-[19:21:00] [Server thread/INFO]: [Not Secure] <vodkaa7> aca no se
-[19:21:06] [Server thread/INFO]: [Not Secure] <Jobelmax757> llenamos de animales AJAJ
-[19:21:17] [Server thread/INFO]: [Not Secure] <vodkaa7> puede ser cultivos ya que alla es re pequeño
-[19:21:22] [Server thread/INFO]: [Not Secure] <Jobelmax757> también
-[19:21:34] [Server thread/INFO]: [Not Secure] <vodkaa7> o puede ser aca
-[19:22:09] [Server thread/INFO]: [Not Secure] <Jobelmax757> foto
-[19:22:43] [Server thread/INFO]: [Not Secure] <vodkaa7> me rife
-[19:22:48] [Server thread/INFO]: [Not Secure] <Jobelmax757> si asDJASDj
-[19:22:57] [Server thread/INFO]: [Not Secure] <Jobelmax757> te amo
-[19:23:02] [Server thread/INFO]: [Not Secure] <vodkaa7> yo tambien te amo
-[19:23:06] [Server thread/INFO]: [Not Secure] <Jobelmax757> mua
-[19:23:13] [Server thread/INFO]: [Not Secure] <vodkaa7> mua
-[19:23:22] [Server thread/INFO]: [Not Secure] <vodkaa7> aa
-[19:23:30] [Server thread/INFO]: [Not Secure] <vodkaa7> papas
-[19:23:33] [Server thread/INFO]: [Not Secure] <Jobelmax757> cierto
-[19:23:36] [Server thread/INFO]: [Not Secure] <Jobelmax757> pollito con papa
-[19:23:36] [Server thread/INFO]: [Not Secure] <vodkaa7> tenemos que buscar
-[19:23:57] [Server thread/INFO]: [Not Secure] <Jobelmax757> me voy a hacer la armadura completa
-[19:26:36] [Server thread/INFO]: [Not Secure] <Jobelmax757> hacia donde estaba la aldea?
-[19:26:44] [Server thread/INFO]: [Not Secure] <Jobelmax757> creo q ahi puede haber patatas
-[19:26:48] [Server thread/INFO]: [Not Secure] <Jobelmax757> patacas
-[19:26:49] [Server thread/INFO]: [Not Secure] <Jobelmax757> papas
-[19:29:26] [Server thread/INFO]: [Not Secure] <vodkaa7> ya
-[19:30:00] [Server thread/INFO]: [Not Secure] <Jobelmax757> pq sacas tierra de aca
-[19:30:16] [Server thread/INFO]: [Not Secure] <Jobelmax757> ahh ya
-[19:30:29] [Server thread/INFO]: [Not Secure] <Jobelmax757> amor yo se como rellenar más
-[19:30:36] [Server thread/INFO]: [Not Secure] <Jobelmax757> y que no haga falta romper mucho
-[19:30:47] [Server thread/INFO]: [Not Secure] <Jobelmax757> pon la tierra de nuevo
-[19:31:46] [Server thread/INFO]: [Not Secure] <vodkaa7> AAAAA
-[19:31:58] [Server thread/INFO]: [Not Secure] <vodkaa7> tambien necesitamos aldeanos
-[19:32:06] [Server thread/INFO]: [Not Secure] <Jobelmax757> cierto
-[19:32:25] [Server thread/INFO]: [Not Secure] <Jobelmax757> y si spawneo nmms 2 aldeanos y ahi hacemos todo?
-[19:32:30] [Server thread/INFO]: [Not Secure] <vodkaa7> aca metemos nos aldenos
-[19:32:38] [Server thread/INFO]: [Not Secure] <Jobelmax757> sisisi
-[19:32:46] [Server thread/INFO]: [Not Secure] <vodkaa7> aca
-[19:34:32] [Server thread/INFO]: [Not Secure] <Jobelmax757> podemos encerrar uno aca
-[19:34:37] [Server thread/INFO]: [Not Secure] <vodkaa7> falta dos camas para los aldeanos
-[19:34:37] [Server thread/INFO]: [Not Secure] <Jobelmax757> y q agarre solo la comida
-[19:34:44] [Server thread/INFO]: [Not Secure] <Jobelmax757> ciertoo
-[19:34:47] [Server thread/INFO]: [Not Secure] <Jobelmax757> yo se hacer una granja de hilo
-[19:34:49] [Server thread/INFO]: [Not Secure] <Jobelmax757> infinita
-[19:35:28] [Server thread/INFO]: [Not Secure] <vodkaa7> hago las camas?
-[19:35:34] [Server thread/INFO]: [Not Secure] <Jobelmax757> nono todavia
-[19:36:38] [Server thread/INFO]: [Not Secure] <vodkaa7> aca podemos meter a los animalios
-[19:36:43] [Server thread/INFO]: [Not Secure] <vodkaa7> animalitos*
-[19:36:52] [Server thread/INFO]: [Not Secure] <Jobelmax757> si ajsdsja
-[19:36:57] [Server thread/INFO]: [Not Secure] <Jobelmax757> creo que era para eso luego
-[19:38:07] [Server thread/INFO]: [Not Secure] <Jobelmax757> va a llover
-[19:38:11] [Server thread/INFO]: [Not Secure] <Jobelmax757> pera voy a juntar la ropa
-[19:38:14] [Server thread/INFO]: [Not Secure] <Jobelmax757> ya vengo amor
-[19:38:48] [Server thread/INFO]: vodkaa7 has made the advancement [Suit Up]
-[19:41:23] [Server thread/INFO]: [Not Secure] <Jobelmax757> volví
-[19:41:33] [Server thread/INFO]: [Not Secure] <Jobelmax757> bueno preparamos los aldeanos?
-[19:41:42] [Server thread/INFO]: [Not Secure] <vodkaa7> ti
-[19:41:45] [Server thread/INFO]: [Not Secure] <Jobelmax757> voy a hacer la granja de hilo
-[19:41:48] [Server thread/INFO]: [Not Secure] <Jobelmax757> te voy a mostrar como se hace
-[19:42:30] [Server thread/INFO]: [Not Secure] <Jobelmax757> ven
-[19:45:38] [Server thread/INFO]: [Not Secure] <Jobelmax757> pFF
-[19:45:45] [Server thread/INFO]: [Not Secure] <Jobelmax757> puse mal el agua creo
-[19:45:53] [Server thread/INFO]: [Not Secure] <vodkaa7> el agua
-[19:46:15] [Server thread/INFO]: [Not Secure] <Jobelmax757> o si no habre tocado algo del server
-[19:46:17] [Server thread/INFO]: [Not Secure] <Jobelmax757> y no es vanilla
-[19:46:43] [Server thread/INFO]: [Not Secure] <Jobelmax757> nop
-[19:46:45] [Server thread/INFO]: [Not Secure] <Jobelmax757> es por eso creo
-[19:46:53] [Server thread/INFO]: [Not Secure] <Jobelmax757> espera reviso la confi del server
-[19:47:26] [Server thread/INFO]: [Not Secure] <Jobelmax757> pq me ataco la abeja?
-[19:47:33] [Server thread/INFO]: [Not Secure] <vodkaa7> no se
-[19:47:36] [Server thread/INFO]: [Not Secure] <Jobelmax757> JASJDASDJ
-[19:47:45] [Server thread/INFO]: [Not Secure] <Jobelmax757> rompiste el panal amor
-[19:47:47] [Server thread/INFO]: [Not Secure] <Jobelmax757> te pille
-[19:47:53] [Server thread/INFO]: [Not Secure] <vodkaa7> :p
-[19:50:11] [Server thread/INFO]: [Not Secure] <Jobelmax757> bueno voy a tener q reiniciar el server si quiero q funcione aSDJKASd
-[19:50:21] [Server thread/INFO]: [Not Secure] <vodkaa7> dale
-[19:50:26] [Server thread/INFO]: [Not Secure] <Jobelmax757> amimir amor
-[19:50:49] [Server thread/INFO]: [Not Secure] <Jobelmax757> JHAHAHJAHAH
-[19:50:51] [Server thread/INFO]: [Not Secure] <Jobelmax757> AJKSDJASD
-[19:50:54] [Server thread/INFO]: [Not Secure] <Jobelmax757> ay
-[19:50:58] [Server thread/INFO]: [Not Secure] <Jobelmax757> me lastimaste
-[19:51:02] [Server thread/INFO]: [Not Secure] <vodkaa7> que rico la tienes
-[19:51:04] [Server thread/INFO]: [Not Secure] <Jobelmax757> lo hiciste muy rápido
-[19:51:06] [Server thread/INFO]: [Not Secure] <Jobelmax757> AJASDJAS
-[19:51:16] [Server thread/INFO]: [Not Secure] <Jobelmax757> bueno reinicio el server
-[19:51:20] [Server thread/INFO]: [Not Secure] <vodkaa7> dale
-[19:51:25] [Server thread/INFO]: Stopping the server
-[19:51:25] [Server thread/INFO]: Stopping server
-[19:51:25] [Server thread/INFO]: Saving players
-[19:51:25] [Server thread/INFO]: Saving worlds
-[19:51:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:51:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:51:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:51:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:51:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:51:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:51:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:43:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:43:54] [ServerMain/INFO]: Loaded 7 recipes
+[02:43:54] [ServerMain/INFO]: Loaded 1271 advancements
+[02:43:55] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[02:43:55] [Server thread/INFO]: Loading properties
+[02:43:55] [Server thread/INFO]: Default game type: SURVIVAL
+[02:43:55] [Server thread/INFO]: Generating keypair
+[02:43:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:43:55] [Server thread/INFO]: Using epoll channel type
+[02:43:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:43:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:43:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:43:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:43:55] [Server thread/INFO]: Preparing level "world"
+[02:44:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:44:10] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[02:44:10] [Server thread/INFO]: Time elapsed: 8443 ms
+[02:44:10] [Server thread/INFO]: Done (14.888s)! For help, type "help"
+[02:44:14] [Server thread/INFO]: Jobelmax757[/[0:0:0:0:0:0:0:1%0]:35926] logged in with entity id 71 at (8.05683734118242, 70.0, 309.2850376908155)
+[02:44:14] [Server thread/INFO]: Jobelmax757 joined the game
+[02:52:04] [Server thread/INFO]: malefumacrack[/[0:0:0:0:0:0:0:1%0]:43362] logged in with entity id 1601 at (473.609175231325, 63.0, -46.38917845206321)
+[02:52:04] [Server thread/INFO]: malefumacrack joined the game
