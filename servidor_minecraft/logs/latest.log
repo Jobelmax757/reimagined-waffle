@@ -1,231 +1,40 @@
-[03:41:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:41:51] [ServerMain/INFO]: No existing world data, creating new world
-[03:41:52] [ServerMain/INFO]: Loaded 7 recipes
-[03:41:53] [ServerMain/INFO]: Loaded 1271 advancements
-[03:41:53] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[03:41:53] [Server thread/INFO]: Loading properties
-[03:41:53] [Server thread/INFO]: Default game type: SURVIVAL
-[03:41:53] [Server thread/INFO]: Generating keypair
-[03:41:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:41:54] [Server thread/INFO]: Using epoll channel type
-[03:41:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:41:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:41:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:41:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:41:54] [Server thread/INFO]: Preparing level "world"
-[03:42:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:42:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:42:52] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 68%
-[03:42:54] [Worker-Main-3/INFO]: Preparing spawn area: 87%
-[03:42:54] [Worker-Main-3/INFO]: Preparing spawn area: 89%
-[03:42:55] [Worker-Main-3/INFO]: Preparing spawn area: 90%
-[03:42:55] [Worker-Main-3/INFO]: Preparing spawn area: 91%
-[03:42:56] [Worker-Main-3/INFO]: Preparing spawn area: 92%
-[03:42:56] [Worker-Main-3/INFO]: Preparing spawn area: 93%
-[03:42:57] [Worker-Main-3/INFO]: Preparing spawn area: 94%
-[03:42:57] [Worker-Main-3/INFO]: Preparing spawn area: 96%
-[03:42:58] [Worker-Main-3/INFO]: Preparing spawn area: 96%
-[03:42:58] [Worker-Main-3/INFO]: Preparing spawn area: 99%
-[03:43:00] [Server thread/INFO]: Time elapsed: 52606 ms
-[03:43:00] [Server thread/INFO]: Done (65.888s)! For help, type "help"
-[03:46:09] [Server thread/INFO]: SANLORENZO[/127.68.242.207:41785] logged in with entity id 261 at (-13.5, 77.0, -327.5)
-[03:46:09] [Server thread/INFO]: SANLORENZO joined the game
-[03:48:10] [Server thread/INFO]: SANLORENZO has made the advancement [Stone Age]
-[03:49:17] [Server thread/INFO]: SANLORENZO has made the advancement [Getting an Upgrade]
-[03:50:15] [Server thread/INFO]: Jobelmax757[/127.46.249.115:40143] logged in with entity id 971 at (-12.5, 74.0, -344.5)
-[03:50:15] [Server thread/INFO]: Jobelmax757 joined the game
-[03:53:10] [Server thread/INFO]: Jobelmax757 has made the advancement [Stone Age]
-[03:53:20] [Server thread/INFO]: Jobelmax757 has made the advancement [Getting an Upgrade]
-[03:55:42] [Server thread/INFO]: Jobelmax757 has made the advancement [Monster Hunter]
-[03:56:43] [Server thread/INFO]: SANLORENZO has made the advancement [Monster Hunter]
-[03:57:42] [Server thread/INFO]: maeatrokill2024[/127.47.48.193:42683] logged in with entity id 2763 at (-11.5, 74.0, -345.5)
-[03:57:42] [Server thread/INFO]: maeatrokill2024 joined the game
-[03:58:49] [Server thread/INFO]: SANLORENZO was slain by Zombie
-[03:58:55] [Server thread/INFO]: SANLORENZO lost connection: Disconnected
-[03:58:55] [Server thread/INFO]: SANLORENZO left the game
-[03:58:56] [Server thread/INFO]: [Not Secure] <maeatrokill2024> sanlorenzo
-[03:59:04] [Server thread/INFO]: [Not Secure] <maeatrokill2024> miedito
-[03:59:29] [Server thread/WARN]: Jobelmax757 moved too quickly! 0.33731554540942454,-12.253696747978982,0.3548558748523192
-[04:01:25] [Server thread/INFO]: maeatrokill2024 has made the advancement [Stone Age]
-[04:01:39] [Server thread/INFO]: maeatrokill2024 has made the advancement [Getting an Upgrade]
-[04:03:38] [Server thread/INFO]: SANLORENZO[/127.68.242.207:48959] logged in with entity id 4106 at (-11.5, 80.0, -332.5)
-[04:03:38] [Server thread/INFO]: SANLORENZO joined the game
-[04:03:59] [Server thread/INFO]: Made Jobelmax757 a server operator
-[04:04:06] [Server thread/INFO]: [Jobelmax757: Teleported SANLORENZO to maeatrokill2024]
-[04:04:09] [Server thread/INFO]: Jobelmax757 has made the advancement [Acquire Hardware]
-[04:04:14] [Server thread/INFO]: Jobelmax757 has made the advancement [Isn't It Iron Pick]
-[04:04:46] [Server thread/INFO]: Jobelmax757 has made the advancement [Diamonds!]
-[04:04:46] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-12, y=73, z=-330}
-[04:04:46] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=73, z=-330}
-[04:04:51] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-14, y=73, z=-330}
-[04:04:51] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-13, y=73, z=-330}
-[04:04:52] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-13, y=73, z=-330}
-[04:04:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-13, y=73, z=-331}
-[04:04:53] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-12, y=73, z=-331}
-[04:04:54] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-13, y=72, z=-331}
-[04:04:54] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-12, y=72, z=-332}
-[04:04:55] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=71, z=-331}
-[04:04:57] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=70, z=-331}
-[04:04:57] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=71, z=-331}
-[04:04:57] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=72, z=-331}
-[04:04:57] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-12, y=73, z=-331}
-[04:05:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=73, z=-331}
-[04:05:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=72, z=-331}
-[04:05:04] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=69, z=-331}
-[04:05:04] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=70, z=-331}
-[04:05:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=70, z=-332}
-[04:05:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=70, z=-331}
-[04:05:08] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-7, y=69, z=-331}
-[04:05:09] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=70, z=-331}
-[04:05:16] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=70, z=-332}
-[04:05:16] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=70, z=-331}
-[04:05:19] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=67, z=-332}
-[04:05:20] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=68, z=-332}
-[04:05:20] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=69, z=-332}
-[04:05:21] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=70, z=-331}
-[04:05:21] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=70, z=-331}
-[04:05:21] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=69, z=-332}
-[04:05:21] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=69, z=-332}
-[04:05:22] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=69, z=-332}
-[04:05:22] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=69, z=-332}
-[04:05:22] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=68, z=-332}
-[04:05:23] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=68, z=-333}
-[04:05:24] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=68, z=-333}
-[04:05:24] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=68, z=-333}
-[04:05:24] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=68, z=-333}
-[04:05:30] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=70, z=-331}
-[04:05:30] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=70, z=-331}
-[04:05:32] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=71, z=-331}
-[04:05:33] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=70, z=-331}
-[04:05:33] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=71, z=-331}
-[04:05:35] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=72, z=-331}
-[04:05:35] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=71, z=-331}
-[04:05:35] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=70, z=-331}
-[04:05:36] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=70, z=-331}
-[04:05:36] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=70, z=-331}
-[04:05:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=72, z=-330}
-[04:05:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=15, y=40, z=-368} hx{x=-9, y=67, z=-330}
-[04:05:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=69, z=-332}
-[04:05:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=69, z=-332}
-[04:05:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-10, y=68, z=-333}
-[04:05:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=68, z=-332}
-[04:05:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=69, z=-331}
-[04:05:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-11, y=68, z=-332}
-[04:05:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=38, y=41, z=-357} hx{x=-9, y=67, z=-332}
-[04:05:45] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=15, y=40, z=-368} hx{x=-7, y=67, z=-330}
-[04:05:45] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=15, y=40, z=-368} hx{x=-8, y=67, z=-330}
-[04:05:47] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=15, y=40, z=-368} hx{x=-9, y=67, z=-330}
-[04:05:56] [Server thread/INFO]: Made Jobelmax757 no longer a server operator
-[04:07:59] [Server thread/INFO]: Jobelmax757 has made the advancement [Hot Stuff]
-[04:12:36] [Server thread/INFO]: [Not Secure] <maeatrokill2024> una mujer
-[04:12:50] [Server thread/INFO]: [Not Secure] <SANLORENZO> 2 62 -482
-[04:18:18] [Server thread/INFO]: maeatrokill2024 lost connection: Disconnected
-[04:18:18] [Server thread/INFO]: maeatrokill2024 left the game
-[04:25:31] [Server thread/INFO]: Jobelmax757 lost connection: Disconnected
-[04:25:31] [Server thread/INFO]: Jobelmax757 left the game
-[04:25:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:25:34] [Server thread/INFO]: stopstop<--[HERE]
-[04:25:36] [Server thread/INFO]: Stopping the server
-[04:25:37] [Server thread/INFO]: Stopping server
-[04:25:37] [Server thread/INFO]: Saving players
-[04:25:37] [Server thread/INFO]: SANLORENZO lost connection: Server closed
-[04:25:37] [Server thread/INFO]: SANLORENZO left the game
-[04:25:37] [Server thread/INFO]: Saving worlds
-[04:25:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:25:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:25:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:25:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:25:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:25:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:25:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:00:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:00:27] [ServerMain/INFO]: Loaded 7 recipes
+[17:00:28] [ServerMain/INFO]: Loaded 1271 advancements
+[17:00:28] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[17:00:28] [Server thread/INFO]: Loading properties
+[17:00:28] [Server thread/INFO]: Default game type: SURVIVAL
+[17:00:28] [Server thread/INFO]: Generating keypair
+[17:00:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:00:28] [Server thread/INFO]: Using epoll channel type
+[17:00:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:00:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:00:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:00:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:00:28] [Server thread/INFO]: Preparing level "world"
+[17:00:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:00:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:00:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:00:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:00:34] [Worker-Main-1/INFO]: Preparing spawn area: 8%
+[17:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[17:00:35] [Server thread/INFO]: Time elapsed: 4076 ms
+[17:00:35] [Server thread/INFO]: Done (6.447s)! For help, type "help"
+[17:00:38] [Server thread/INFO]: Jobelmax757[/127.46.249.115:34291] logged in with entity id 64 at (2869.932241354054, 112.0, -4161.09261904404)
+[17:00:38] [Server thread/INFO]: Jobelmax757 joined the game
+[17:02:59] [Server thread/INFO]: vodkaa7[/127.68.9.18:53231] logged in with entity id 731 at (2708.2100144433452, 63.0, -4186.300000011921)
+[17:02:59] [Server thread/INFO]: vodkaa7 joined the game
+[17:03:12] [Server thread/INFO]: [Not Secure] <vodkaa7> amorrr
+[17:03:15] [Server thread/INFO]: [Not Secure] <vodkaa7> ggg
+[17:03:33] [Server thread/INFO]: [Not Secure] <vodkaa7> te lo chupo toda
+[17:03:58] [Server thread/INFO]: Teleported Jobelmax757 to 2863.500000, 113.000000, -4154.500000
+[17:04:10] [Server thread/INFO]: Teleported Jobelmax757 to vodkaa7
+[17:08:06] [Server thread/WARN]: Jobelmax757 moved too quickly! 1.7865009003949126,-10.516181541923913,0.4461160678638407
+[17:09:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3700ms or 74 ticks behind
+[17:09:45] [Server thread/WARN]: Cherry Boat (vehicle of vodkaa7) moved wrongly! 0.2653115921107201
+[17:09:45] [Server thread/WARN]: Cherry Boat (vehicle of vodkaa7) moved wrongly! 0.2938075289580411
+[17:10:17] [Server thread/INFO]: [Not Secure] <vodkaa7> amor sacate la capa esta
