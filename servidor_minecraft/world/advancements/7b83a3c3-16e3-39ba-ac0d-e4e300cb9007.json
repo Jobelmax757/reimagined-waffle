@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-09 04:18:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-01-09 04:05:08 +0000"
@@ -464,6 +470,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-01-09 03:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-09 04:18:35 +0000"
     },
     "done": true
   },
@@ -792,8 +804,12 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-01-09 04:14:03 +0000",
       "minecraft:beach": "2025-01-09 04:17:33 +0000",
+      "minecraft:desert": "2025-01-09 04:22:20 +0000",
       "minecraft:forest": "2025-01-09 03:50:16 +0000",
+      "minecraft:sparse_jungle": "2025-01-09 04:22:54 +0000",
       "minecraft:ocean": "2025-01-09 04:17:42 +0000",
+      "minecraft:river": "2025-01-09 04:21:05 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-09 04:20:26 +0000",
       "minecraft:plains": "2025-01-09 03:56:06 +0000"
     },
     "done": false

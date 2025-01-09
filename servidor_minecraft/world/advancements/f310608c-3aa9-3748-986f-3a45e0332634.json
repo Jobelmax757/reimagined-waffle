@@ -8,8 +8,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-01-09 04:17:35 +0000",
+      "minecraft:desert": "2025-01-09 04:22:22 +0000",
       "minecraft:forest": "2025-01-09 03:46:10 +0000",
+      "minecraft:sparse_jungle": "2025-01-09 04:22:56 +0000",
       "minecraft:ocean": "2025-01-09 04:17:42 +0000",
+      "minecraft:river": "2025-01-09 04:21:05 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-09 04:20:26 +0000",
       "minecraft:plains": "2025-01-09 03:56:40 +0000"
     },
     "done": false
@@ -268,7 +272,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-01-09 03:56:43 +0000"
+      "minecraft:skeleton": "2025-01-09 03:56:43 +0000",
+      "minecraft:spider": "2025-01-09 04:22:37 +0000"
     },
     "done": false
   },
@@ -344,6 +349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-01-09 04:18:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-01-09 04:08:30 +0000"
@@ -356,9 +367,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-09 04:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-09 04:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-01-09 04:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-09 04:22:38 +0000"
     },
     "done": true
   },
@@ -386,9 +415,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-09 04:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-09 04:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-09 04:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-01-09 04:22:38 +0000"
     },
     "done": true
   },
@@ -404,9 +451,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-09 04:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-09 04:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-09 04:22:38 +0000"
     },
     "done": true
   },
@@ -421,6 +480,12 @@
       "cooked_mutton": "2025-01-09 04:10:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-09 04:23:41 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
@@ -443,6 +508,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-09 04:17:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-09 04:22:38 +0000"
     },
     "done": true
   },
