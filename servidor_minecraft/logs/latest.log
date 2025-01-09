@@ -1,79 +1,127 @@
-[02:43:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:43:54] [ServerMain/INFO]: Loaded 7 recipes
-[02:43:54] [ServerMain/INFO]: Loaded 1271 advancements
-[02:43:55] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[02:43:55] [Server thread/INFO]: Loading properties
-[02:43:55] [Server thread/INFO]: Default game type: SURVIVAL
-[02:43:55] [Server thread/INFO]: Generating keypair
-[02:43:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:43:55] [Server thread/INFO]: Using epoll channel type
-[02:43:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:43:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:43:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:43:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:43:55] [Server thread/INFO]: Preparing level "world"
-[02:44:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:44:10] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[02:44:10] [Server thread/INFO]: Time elapsed: 8443 ms
-[02:44:10] [Server thread/INFO]: Done (14.888s)! For help, type "help"
-[02:44:14] [Server thread/INFO]: Jobelmax757[/[0:0:0:0:0:0:0:1%0]:35926] logged in with entity id 71 at (8.05683734118242, 70.0, 309.2850376908155)
-[02:44:14] [Server thread/INFO]: Jobelmax757 joined the game
-[02:52:04] [Server thread/INFO]: malefumacrack[/[0:0:0:0:0:0:0:1%0]:43362] logged in with entity id 1601 at (473.609175231325, 63.0, -46.38917845206321)
-[02:52:04] [Server thread/INFO]: malefumacrack joined the game
-[03:01:14] [Server thread/INFO]: TavyronTujax[/[0:0:0:0:0:0:0:1%0]:45362] logged in with entity id 4051 at (-28.70636252868281, 70.0, 306.45224840634603)
-[03:01:14] [Server thread/INFO]: TavyronTujax joined the game
-[03:04:02] [Server thread/INFO]: TavyronTujax has made the advancement [Monster Hunter]
-[03:05:29] [Server thread/INFO]: [Not Secure] <TavyronTujax> qn tiene papa
-[03:07:16] [Server thread/INFO]: [Not Secure] <malefumacrack> oke panchula
-[03:11:34] [Server thread/INFO]: TavyronTujax has made the advancement [A Seedy Place]
-[03:14:49] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=12, y=71, z=293} hx{x=13, y=70, z=291}
-[03:23:01] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[03:23:11] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[03:26:37] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:26:38] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:26:39] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:26:39] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:26:39] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:26:40] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:26:51] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:27:28] [Server thread/INFO]: Villager cev['Villager'/9278, l='ServerLevel[world]', x=10.60, y=72.02, z=292.79] died, message: 'Villager was slain by Jobelmax757'
-[03:27:41] [Server thread/INFO]: Villager cev['Villager'/9281, l='ServerLevel[world]', x=8.90, y=71.00, z=300.70] died, message: 'Villager was slain by Jobelmax757'
-[03:27:54] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[03:28:32] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[03:28:55] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:28:59] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:30:43] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:31:10] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:31:11] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:31:12] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:31:13] [Server thread/INFO]: [Jobelmax757: Summoned new Villager]
-[03:31:16] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[03:31:23] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[03:36:21] [Server thread/INFO]: [Jobelmax757: Set own game mode to Creative Mode]
-[03:36:26] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[03:41:23] [Server thread/INFO]: Jobelmax757 has made the advancement [What a Deal!]
-[03:42:39] [Server thread/INFO]: [Jobelmax757: Set own game mode to Spectator Mode]
-[03:42:58] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
-[04:01:14] [Server thread/INFO]: TavyronTujax has made the advancement [Ol' Betsy]
-[04:01:14] [Server thread/INFO]: TavyronTujax has made the advancement [Take Aim]
-[04:05:55] [Server thread/INFO]: malefumacrack lost connection: Timed out
-[04:05:55] [Server thread/INFO]: malefumacrack left the game
-[04:05:55] [Server thread/WARN]: handleDisconnection() called twice
-[04:13:46] [Server thread/INFO]: [Jobelmax757: Set own game mode to Spectator Mode]
-[04:13:56] [Server thread/INFO]: [Jobelmax757: Set own game mode to Survival Mode]
+[03:41:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:41:51] [ServerMain/INFO]: No existing world data, creating new world
+[03:41:52] [ServerMain/INFO]: Loaded 7 recipes
+[03:41:53] [ServerMain/INFO]: Loaded 1271 advancements
+[03:41:53] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[03:41:53] [Server thread/INFO]: Loading properties
+[03:41:53] [Server thread/INFO]: Default game type: SURVIVAL
+[03:41:53] [Server thread/INFO]: Generating keypair
+[03:41:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:41:54] [Server thread/INFO]: Using epoll channel type
+[03:41:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:41:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:41:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:41:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:41:54] [Server thread/INFO]: Preparing level "world"
+[03:42:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:42:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:52] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[03:42:54] [Worker-Main-3/INFO]: Preparing spawn area: 87%
+[03:42:54] [Worker-Main-3/INFO]: Preparing spawn area: 89%
+[03:42:55] [Worker-Main-3/INFO]: Preparing spawn area: 90%
+[03:42:55] [Worker-Main-3/INFO]: Preparing spawn area: 91%
+[03:42:56] [Worker-Main-3/INFO]: Preparing spawn area: 92%
+[03:42:56] [Worker-Main-3/INFO]: Preparing spawn area: 93%
+[03:42:57] [Worker-Main-3/INFO]: Preparing spawn area: 94%
+[03:42:57] [Worker-Main-3/INFO]: Preparing spawn area: 96%
+[03:42:58] [Worker-Main-3/INFO]: Preparing spawn area: 96%
+[03:42:58] [Worker-Main-3/INFO]: Preparing spawn area: 99%
+[03:43:00] [Server thread/INFO]: Time elapsed: 52606 ms
+[03:43:00] [Server thread/INFO]: Done (65.888s)! For help, type "help"
+[03:46:09] [Server thread/INFO]: SANLORENZO[/127.68.242.207:41785] logged in with entity id 261 at (-13.5, 77.0, -327.5)
+[03:46:09] [Server thread/INFO]: SANLORENZO joined the game
+[03:48:10] [Server thread/INFO]: SANLORENZO has made the advancement [Stone Age]
+[03:49:17] [Server thread/INFO]: SANLORENZO has made the advancement [Getting an Upgrade]
+[03:50:15] [Server thread/INFO]: Jobelmax757[/127.46.249.115:40143] logged in with entity id 971 at (-12.5, 74.0, -344.5)
+[03:50:15] [Server thread/INFO]: Jobelmax757 joined the game
