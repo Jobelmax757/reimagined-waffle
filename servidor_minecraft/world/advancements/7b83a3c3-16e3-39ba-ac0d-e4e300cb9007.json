@@ -12,6 +12,8 @@
       "minecraft:old_growth_pine_taiga": "2025-02-23 21:28:44 +0000",
       "minecraft:forest": "2025-02-23 20:32:40 +0000",
       "minecraft:taiga": "2025-02-23 21:10:38 +0000",
+      "minecraft:river": "2025-02-24 01:56:23 +0000",
+      "minecraft:stony_shore": "2025-02-24 01:56:31 +0000",
       "minecraft:lush_caves": "2025-02-24 01:24:52 +0000",
       "minecraft:plains": "2025-02-23 20:28:23 +0000"
     },
@@ -445,11 +447,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-02-24 02:07:32 +0000",
       "minecraft:skeleton": "2025-02-23 21:32:53 +0000",
       "minecraft:piglin": "2025-02-23 21:02:37 +0000",
       "minecraft:witch": "2025-02-24 01:23:02 +0000",
       "minecraft:spider": "2025-02-23 20:49:52 +0000",
       "minecraft:zombie": "2025-02-23 20:34:40 +0000",
+      "minecraft:drowned": "2025-02-24 01:56:21 +0000",
+      "minecraft:ghast": "2025-02-24 02:03:08 +0000",
       "minecraft:slime": "2025-02-23 21:36:48 +0000"
     },
     "done": false
@@ -486,7 +491,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-02-23 20:45:44 +0000"
+      "cooked_porkchop": "2025-02-23 20:45:44 +0000",
+      "cooked_beef": "2025-02-24 02:06:20 +0000"
     },
     "done": false
   },
@@ -902,6 +908,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-02-23 21:00:18 +0000",
       "minecraft:nether_wastes": "2025-02-23 21:02:11 +0000",
+      "minecraft:soul_sand_valley": "2025-02-24 02:02:15 +0000",
       "minecraft:warped_forest": "2025-02-23 20:58:19 +0000"
     },
     "done": false
@@ -1515,6 +1522,114 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-02-24 01:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-02-24 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-24 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-02-24 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-24 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-24 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-24 02:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-02-24 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-02-24 02:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-24 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-24 02:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-24 02:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-24 02:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-24 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-24 02:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-02-24 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-24 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-24 02:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-24 02:07:32 +0000"
     },
     "done": true
   },
