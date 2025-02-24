@@ -840,6 +840,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-23 21:14:43 +0000",
+      "minecraft:zoglin": "2025-02-24 02:53:08 +0000",
       "minecraft:spider": "2025-02-24 00:43:38 +0000",
       "minecraft:wither_skeleton": "2025-02-24 02:28:43 +0000",
       "minecraft:zombie": "2025-02-23 21:13:47 +0000",
@@ -1249,6 +1250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-24 02:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-02-24 01:26:32 +0000"
@@ -1417,6 +1424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-02-24 02:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-02-24 01:58:28 +0000"
@@ -1471,6 +1484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-24 02:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-02-24 02:34:52 +0000"
@@ -1498,6 +1517,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-02-24 01:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-24 02:53:27 +0000"
     },
     "done": true
   },
@@ -1558,6 +1583,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-02-24 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-24 02:53:27 +0000"
     },
     "done": true
   },
@@ -1624,6 +1655,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-24 02:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-24 02:53:27 +0000"
     },
     "done": true
   },

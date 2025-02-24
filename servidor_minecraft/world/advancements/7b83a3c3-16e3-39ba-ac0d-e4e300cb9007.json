@@ -1721,6 +1721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-02-24 02:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-02-24 02:03:08 +0000"
@@ -1799,6 +1805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-24 02:54:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-02-24 02:50:53 +0000"
@@ -1826,6 +1838,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-24 01:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-24 02:54:09 +0000"
     },
     "done": true
   },
@@ -1862,6 +1880,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-24 02:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-24 02:54:09 +0000"
     },
     "done": true
   },

@@ -485,6 +485,7 @@
       "minecraft:blaze": "2025-02-24 02:12:44 +0000",
       "minecraft:skeleton": "2025-02-24 02:09:59 +0000",
       "minecraft:piglin": "2025-02-24 02:00:26 +0000",
+      "minecraft:zoglin": "2025-02-24 02:53:01 +0000",
       "minecraft:witch": "2025-02-24 02:38:51 +0000",
       "minecraft:endermite": "2025-02-24 02:38:51 +0000",
       "minecraft:zombie": "2025-02-24 00:58:41 +0000"
@@ -1758,6 +1759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-02-24 02:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-02-24 02:48:19 +0000"
@@ -1767,6 +1774,12 @@
   "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-02-24 02:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-24 02:52:59 +0000"
     },
     "done": true
   },
@@ -1782,15 +1795,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-24 02:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-02-24 02:35:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-24 02:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
     "criteria": {
       "has_tide_armor_trim_smithing_template": "2025-02-24 02:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-24 02:53:41 +0000"
     },
     "done": true
   },
