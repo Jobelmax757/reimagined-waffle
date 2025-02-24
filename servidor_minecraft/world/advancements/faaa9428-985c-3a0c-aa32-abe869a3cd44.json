@@ -421,6 +421,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-02-24 02:15:05 +0000",
       "minecraft:skeleton": "2025-02-23 20:59:00 +0000",
       "minecraft:spider": "2025-02-23 21:01:35 +0000",
       "minecraft:zombie": "2025-02-23 20:37:00 +0000"
@@ -1977,6 +1978,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-24 02:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-24 02:09:10 +0000"
@@ -1992,6 +1999,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-24 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-24 02:15:12 +0000"
     },
     "done": true
   },
@@ -2016,6 +2029,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-02-24 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-24 02:15:12 +0000"
     },
     "done": true
   },
