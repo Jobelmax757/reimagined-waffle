@@ -11,6 +11,8 @@
       "minecraft:old_growth_pine_taiga": "2025-02-24 01:07:08 +0000",
       "minecraft:forest": "2025-02-23 20:33:24 +0000",
       "minecraft:taiga": "2025-02-23 20:34:37 +0000",
+      "minecraft:river": "2025-02-24 01:41:23 +0000",
+      "minecraft:meadow": "2025-02-24 01:28:34 +0000",
       "minecraft:lush_caves": "2025-02-23 20:37:36 +0000",
       "minecraft:plains": "2025-02-23 20:29:07 +0000"
     },
@@ -379,7 +381,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-23 20:37:04 +0000",
+      "mutton": "2025-02-24 01:32:04 +0000",
+      "apple": "2025-02-24 01:25:35 +0000",
       "golden_apple": "2025-02-23 20:58:38 +0000",
+      "bread": "2025-02-24 01:24:49 +0000",
       "cooked_mutton": "2025-02-24 01:00:26 +0000",
       "potato": "2025-02-23 21:40:18 +0000",
       "sweet_berries": "2025-02-23 21:40:25 +0000",
@@ -1753,6 +1758,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-24 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-24 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-02-24 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-02-24 01:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-02-24 00:57:02 +0000"
@@ -1771,9 +1800,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-02-24 01:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-24 00:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-02-24 01:36:07 +0000"
     },
     "done": true
   },
@@ -1801,15 +1842,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-24 01:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-24 01:03:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-02-24 01:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-02-24 01:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-02-24 01:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-24 01:36:07 +0000"
     },
     "done": true
   },
@@ -1822,6 +1887,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-24 01:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-02-24 01:36:07 +0000"
     },
     "done": true
   },

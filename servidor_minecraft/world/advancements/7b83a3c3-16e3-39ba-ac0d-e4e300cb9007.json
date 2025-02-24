@@ -12,6 +12,7 @@
       "minecraft:old_growth_pine_taiga": "2025-02-23 21:28:44 +0000",
       "minecraft:forest": "2025-02-23 20:32:40 +0000",
       "minecraft:taiga": "2025-02-23 21:10:38 +0000",
+      "minecraft:lush_caves": "2025-02-24 01:24:52 +0000",
       "minecraft:plains": "2025-02-23 20:28:23 +0000"
     },
     "done": false
@@ -446,6 +447,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-23 21:32:53 +0000",
       "minecraft:piglin": "2025-02-23 21:02:37 +0000",
+      "minecraft:witch": "2025-02-24 01:23:02 +0000",
       "minecraft:spider": "2025-02-23 20:49:52 +0000",
       "minecraft:zombie": "2025-02-23 20:34:40 +0000",
       "minecraft:slime": "2025-02-23 21:36:48 +0000"
@@ -1354,6 +1356,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-24 01:40:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-02-24 01:15:36 +0000"
@@ -1363,6 +1371,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-24 00:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-24 01:23:35 +0000"
     },
     "done": true
   },
@@ -1381,6 +1395,18 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-24 01:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-24 01:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-24 01:22:18 +0000"
     },
     "done": true
   },
@@ -1420,6 +1446,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-24 01:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-24 01:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-02-24 01:15:36 +0000"
@@ -1438,6 +1476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-24 01:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-02-24 01:16:25 +0000"
@@ -1450,6 +1494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-24 01:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-02-24 01:16:25 +0000"
@@ -1459,6 +1509,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-24 00:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-24 01:22:18 +0000"
     },
     "done": true
   },
