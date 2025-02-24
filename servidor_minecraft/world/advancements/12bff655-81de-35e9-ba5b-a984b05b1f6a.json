@@ -8,15 +8,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-02-23 21:24:17 +0000",
+      "minecraft:flower_forest": "2025-02-24 02:33:56 +0000",
       "minecraft:beach": "2025-02-23 20:35:00 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-23 21:23:10 +0000",
-      "minecraft:frozen_river": "2025-02-24 01:07:22 +0000",
       "minecraft:forest": "2025-02-23 20:33:12 +0000",
       "minecraft:taiga": "2025-02-23 20:35:26 +0000",
+      "minecraft:sparse_jungle": "2025-02-24 02:31:44 +0000",
       "minecraft:river": "2025-02-24 01:09:43 +0000",
-      "minecraft:meadow": "2025-02-24 02:04:33 +0000",
+      "minecraft:stony_shore": "2025-02-24 02:35:09 +0000",
       "minecraft:dripstone_caves": "2025-02-24 02:02:58 +0000",
       "minecraft:snowy_taiga": "2025-02-24 01:09:15 +0000",
+      "minecraft:frozen_river": "2025-02-24 01:07:22 +0000",
+      "minecraft:ocean": "2025-02-24 02:34:01 +0000",
+      "minecraft:jungle": "2025-02-24 02:30:00 +0000",
+      "minecraft:meadow": "2025-02-24 02:04:33 +0000",
+      "minecraft:birch_forest": "2025-02-24 02:34:55 +0000",
       "minecraft:plains": "2025-02-23 20:28:10 +0000"
     },
     "done": false
@@ -559,6 +565,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-23 21:21:06 +0000",
       "cooked_chicken": "2025-02-23 20:38:44 +0000",
+      "enchanted_golden_apple": "2025-02-24 02:26:12 +0000",
       "cooked_mutton": "2025-02-23 21:12:41 +0000",
       "cooked_cod": "2025-02-24 00:44:08 +0000",
       "cooked_beef": "2025-02-23 21:27:52 +0000",
@@ -834,7 +841,9 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-23 21:14:43 +0000",
       "minecraft:spider": "2025-02-24 00:43:38 +0000",
-      "minecraft:zombie": "2025-02-23 21:13:47 +0000"
+      "minecraft:wither_skeleton": "2025-02-24 02:28:43 +0000",
+      "minecraft:zombie": "2025-02-23 21:13:47 +0000",
+      "minecraft:ghast": "2025-02-24 02:31:59 +0000"
     },
     "done": false
   },
@@ -1186,6 +1195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-24 02:42:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-24 01:10:31 +0000"
@@ -1207,6 +1222,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-02-24 00:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-24 02:42:48 +0000"
     },
     "done": true
   },
@@ -1240,6 +1261,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-24 02:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-02-24 01:58:28 +0000"
@@ -1258,9 +1285,27 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-24 02:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-24 02:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-02-24 01:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-24 02:35:44 +0000"
     },
     "done": true
   },
@@ -1282,6 +1327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-24 02:35:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-24 01:10:31 +0000"
@@ -1297,6 +1348,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-02-24 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-24 02:22:37 +0000"
     },
     "done": true
   },
@@ -1342,6 +1399,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-24 02:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-02-24 02:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-24 01:10:31 +0000"
@@ -1354,9 +1423,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-24 02:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-02-24 01:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-24 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2025-02-24 02:32:57 +0000"
     },
     "done": true
   },
@@ -1384,6 +1471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-24 02:34:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-02-24 01:58:58 +0000"
@@ -1408,9 +1501,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-24 02:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-02-24 01:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-24 02:34:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-24 02:35:45 +0000"
     },
     "done": true
   },
@@ -1426,9 +1537,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-24 02:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-24 02:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2025-02-24 01:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-24 02:35:44 +0000"
     },
     "done": true
   },
@@ -1444,6 +1573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-24 02:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-24 01:10:31 +0000"
@@ -1456,9 +1591,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2025-02-24 02:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-24 01:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-02-24 02:31:59 +0000"
     },
     "done": true
   },
@@ -1480,15 +1627,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-24 02:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-24 00:55:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-24 02:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-24 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-24 02:42:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-02-24 02:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-02-24 02:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-24 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-24 02:35:44 +0000"
     },
     "done": true
   },
