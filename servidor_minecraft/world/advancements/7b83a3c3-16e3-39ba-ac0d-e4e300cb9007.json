@@ -7,14 +7,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:desert": "2025-02-24 20:16:42 +0000",
       "minecraft:forest": "2025-02-24 21:01:51 +0000",
       "minecraft:mangrove_swamp": "2025-02-24 20:30:06 +0000",
       "minecraft:sparse_jungle": "2025-02-24 20:38:26 +0000",
-      "minecraft:jungle": "2025-02-24 21:01:27 +0000",
       "minecraft:river": "2025-02-24 20:39:45 +0000",
+      "minecraft:stony_shore": "2025-02-25 22:58:03 +0000",
       "minecraft:lush_caves": "2025-02-24 20:46:33 +0000",
       "minecraft:dripstone_caves": "2025-02-24 21:19:30 +0000",
+      "minecraft:desert": "2025-02-24 20:16:42 +0000",
+      "minecraft:jungle": "2025-02-24 21:01:27 +0000",
+      "minecraft:ocean": "2025-02-25 23:05:44 +0000",
+      "minecraft:grove": "2025-02-25 23:13:20 +0000",
       "minecraft:savanna": "2025-02-24 21:12:41 +0000",
       "minecraft:bamboo_jungle": "2025-02-24 20:38:55 +0000",
       "minecraft:windswept_savanna": "2025-02-24 20:28:49 +0000",
@@ -1315,6 +1318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-25 22:48:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-25 22:25:45 +0000"
@@ -1549,6 +1558,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-25 22:53:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-02-25 22:25:24 +0000"
@@ -1564,9 +1579,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-02-25 22:16:46 +0000",
-      "minecraft:enderman": "2025-02-25 22:33:28 +0000"
+      "minecraft:skeleton": "2025-02-25 23:00:43 +0000",
+      "minecraft:phantom": "2025-02-25 22:47:11 +0000",
+      "minecraft:enderman": "2025-02-25 22:33:28 +0000",
+      "minecraft:zombie": "2025-02-25 22:51:43 +0000",
+      "minecraft:creeper": "2025-02-25 22:51:40 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-25 22:48:46 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
