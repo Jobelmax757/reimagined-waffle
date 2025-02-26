@@ -473,6 +473,7 @@
       "minecraft:spider": "2025-02-24 20:27:49 +0000",
       "minecraft:piglin_brute": "2025-02-25 23:48:56 +0000",
       "minecraft:zombie": "2025-02-25 22:28:49 +0000",
+      "minecraft:creeper": "2025-02-26 01:06:42 +0000",
       "minecraft:hoglin": "2025-02-25 23:38:01 +0000"
     },
     "done": false
@@ -2060,6 +2061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-26 01:13:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-02-26 00:09:59 +0000"
@@ -2096,9 +2103,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-02-26 01:13:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-02-26 00:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-26 01:13:20 +0000"
     },
     "done": true
   },
@@ -2126,6 +2145,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-26 01:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-26 00:54:15 +0000"
@@ -2144,9 +2169,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-26 01:13:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-26 00:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-02-26 01:13:20 +0000"
     },
     "done": true
   },
@@ -2159,6 +2196,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-26 00:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-26 01:12:30 +0000"
     },
     "done": true
   },
