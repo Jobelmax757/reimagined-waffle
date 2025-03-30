@@ -156,6 +156,7 @@
       "mutton": "2025-03-30 00:01:04 +0000",
       "apple": "2025-03-30 01:04:41 +0000",
       "cooked_chicken": "2025-03-30 01:13:12 +0000",
+      "cooked_mutton": "2025-03-30 01:57:52 +0000",
       "melon_slice": "2025-03-30 00:03:13 +0000"
     },
     "done": false
@@ -675,6 +676,24 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-03-30 01:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-30 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-30 01:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-30 01:58:09 +0000"
     },
     "done": true
   },
