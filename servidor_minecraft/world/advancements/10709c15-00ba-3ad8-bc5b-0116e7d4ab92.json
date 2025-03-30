@@ -694,9 +694,16 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-03-30 00:24:37 +0000",
+      "minecraft:soul_sand_valley": "2025-03-30 00:30:06 +0000",
       "minecraft:basalt_deltas": "2025-03-30 00:12:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-03-30 00:28:55 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
@@ -815,6 +822,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-03-29 23:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-03-30 00:28:55 +0000"
     },
     "done": true
   },
@@ -983,6 +996,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-03-29 23:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-30 00:34:31 +0000"
     },
     "done": true
   },
